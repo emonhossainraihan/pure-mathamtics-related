@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3495d79a-8621-4716-b9b1-cfff5301d428" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-    </list>
+    <list default="true" id="3495d79a-8621-4716-b9b1-cfff5301d428" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-19-Test.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-19-Test.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-Test.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -98,12 +96,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minima-2.1.1/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <first_editor relative-caret-position="-720">
+                <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                 <folding>
                   <marker date="1516272423372" expanded="true" signature="392:398" ph="minima" />
                   <marker date="1516272423372" expanded="true" signature="4888:4930" ph="disqus: &lt;1 key&gt;" />
@@ -317,22 +315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minima-2.1.1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-            <folding>
-              <marker date="1516272423372" expanded="true" signature="392:398" ph="minima" />
-              <marker date="1516272423372" expanded="true" signature="4888:4930" ph="disqus: &lt;1 key&gt;" />
-              <marker date="1516272423372" expanded="true" signature="4911:4930" ph="my_disqus_shortname" />
-              <marker date="1516272423372" expanded="true" signature="5428:5441" ph="UA-NNNNNNNN-N" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../backup/2017-summer/linear_algebra.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -352,14 +334,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -407,6 +381,30 @@
           <first_editor relative-caret-position="228">
             <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/minima-2.1.1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-720">
+            <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding>
+              <marker date="1516272423372" expanded="true" signature="392:398" ph="minima" />
+              <marker date="1516272423372" expanded="true" signature="4888:4930" ph="disqus: &lt;1 key&gt;" />
+              <marker date="1516272423372" expanded="true" signature="4911:4930" ph="my_disqus_shortname" />
+              <marker date="1516272423372" expanded="true" signature="5428:5441" ph="UA-NNNNNNNN-N" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
