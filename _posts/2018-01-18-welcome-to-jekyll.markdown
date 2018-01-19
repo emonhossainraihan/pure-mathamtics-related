@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oh Hyun Seok techblog"
+title:  "Welcone to Jekyll"
 date:   2018-01-18 19:46:51 +0900
 categories: jekyll update
 ---
