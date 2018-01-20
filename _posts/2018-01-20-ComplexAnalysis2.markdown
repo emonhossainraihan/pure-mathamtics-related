@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Complex Analysis] Cauchy’s Theorem and Its Applications
+title :  (Complex Analysis) Cauchy’s Theorem and Its Applications
 
 
 

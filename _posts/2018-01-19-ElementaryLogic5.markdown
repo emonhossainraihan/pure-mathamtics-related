@@ -6,7 +6,7 @@ layout: post
 
 
 
-title :[Elementary Logic]  Translating Natural Language into L
+title : (Elementary Logic) Translating Natural Language into L
 
 
 

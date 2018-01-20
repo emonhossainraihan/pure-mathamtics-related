@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Complex Analysis] Meromorphic Functions and the Logarithm
+title :  (Complex Analysis) Meromorphic Functions and the Logarithm
 
 
 

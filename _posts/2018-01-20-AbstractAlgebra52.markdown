@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Abstract Algebra] CTotally Inseparable Extensions
+title : (Abstract Algebra) CTotally Inseparable Extensions
 
 
 

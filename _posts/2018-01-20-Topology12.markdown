@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Topology] Classification of Surfaces
+title : \[Topology] Classification of Surfaces
 
 
 

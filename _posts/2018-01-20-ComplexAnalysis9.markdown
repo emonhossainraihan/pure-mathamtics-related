@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Complex Analysis] An introduction to Elliptic Functions
+title :  (Complex Analysis) An introduction to Elliptic Functions
 
 
 

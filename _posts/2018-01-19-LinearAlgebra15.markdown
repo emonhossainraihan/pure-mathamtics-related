@@ -2,7 +2,7 @@
 
 layout: post
 
-title :[Linear Algebra] Hermitian form
+title : (Linear Algebra) Hermitian form
 
 date : 2018-01-19 13:51:16 +0900
 

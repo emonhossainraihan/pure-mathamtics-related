@@ -1,6 +1,6 @@
 ---
 layout: post
-title :[Linear Algebra] Basis and Dimension 기저와 차원
+title : (Linear Algebra) Basis and Dimension 기저와 차원
 date : 2018-01-19 13:51:05 +0900
 ---
 (Section 3) 기저와 차원

@@ -2,7 +2,7 @@
 
 layout: post
 
-title :[Elementary Logic]  Identity and Terms
+title : (Elementary Logic)  Identity and Terms
 
 date : 2018-01-19 13:52:12 +0900
 

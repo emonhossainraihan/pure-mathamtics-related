@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Topology] Applications to Group Theory
+title : \[Topology] Applications to Group Theory
 
 
 

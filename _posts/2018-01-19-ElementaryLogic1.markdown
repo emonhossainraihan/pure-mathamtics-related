@@ -2,7 +2,7 @@
 
 layout: post
 
-title :[Elementary Logic]  Logic
+title : (Elementary Logic)  Logic
 
 date : 2018-01-19 13:52:04 +0900
 

@@ -2,7 +2,7 @@
 
 layout: post
 
-title :[Linear Algebra] Group
+title : (Linear Algebra) Group
 
 date : 2018-01-19 13:51:12 +0900
 

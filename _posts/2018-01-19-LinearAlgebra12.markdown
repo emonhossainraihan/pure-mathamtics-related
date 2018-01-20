@@ -2,7 +2,7 @@
 
 layout: post
 
-title :[Linear Algebra] Quotient
+title : (Linear Algebra) Quotient
 
 date : 2018-01-19 13:51:13 +0900
 
@@ -20,7 +20,7 @@ date : 2018-01-19 13:51:13 +0900
 
 (x,y) \in R 이고 (y,z) \in R 이면 (x,z) \in R. (Transitivity)
 
-(정의 12.1.2) ~ 이 집합 X-위의 equivalence relation 이고 x \in X 일 때, [x] = { y \in X | x ~ y} 로 표기하고, [x] 를 x의 (x를 대표로 갖는) equivalence class 라고 부른다. 또, X/~ = {[x] | x \in X} 로 표기하고, X/~ 를 the set of equivalence classes in X 라고 부른다.
+(정의 12.1.2) ~ 이 집합 X-위의 equivalence relation 이고 x \in X 일 때, \[x] = { y \in X | x ~ y} 로 표기하고, [x] 를 x의 (x를 대표로 갖는) equivalence class 라고 부른다. 또, X/~ = {[x] | x \in X} 로 표기하고, X/~ 를 the set of equivalence classes in X 라고 부른다.
 
 (정의 12.1.5.) ~ 이 집합 X-위의 equivalence relation 일 때, X 의 subset \mathcal{C} 가 다음 조건을 만족하면, \mathcal{C} 를 a complete set of representatives 라고 부른다.
 

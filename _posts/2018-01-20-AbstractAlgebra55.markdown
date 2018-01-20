@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Abstract Algebra] CCyclotomic Extensions
+title : (Abstract Algebra) Cyclotomic Extensions
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title : [Linear Algebra] Vector space 벡터 공간
+title : (Linear Algebra) Vector space 벡터 공간
 date : 2018-01-19 13:51:04 +0900
 ---
 (Section 2) 벡터공간

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3495d79a-8621-4716-b9b1-cfff5301d428" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic1.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic1.markdown" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown" />
@@ -86,6 +87,7 @@
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-20-Topology7.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology7.markdown" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-20-Topology8.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology8.markdown" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-20-Topology9.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology9.markdown" />
+      <change beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,64 +98,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-01-19-ElementaryLogic10.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic11.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic2.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic2.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic3.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic3.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2018-01-19-ElementaryLogic4.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic4.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <first_editor relative-caret-position="171">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -161,11 +111,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic5.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic5.markdown">
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
+              <first_editor relative-caret-position="247">
+                <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-20-ComplexAnalysis9.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis9.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="152">
                 <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
                 <folding />
               </first_editor>
@@ -174,12 +137,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic6.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic6.markdown">
+      <file leaf-file-name="2018-01-20-DifferentialGeometry3.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry3.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -187,12 +150,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic7.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic7.markdown">
+      <file leaf-file-name="2018-01-20-MultivariateAnalysis3.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis3.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -200,12 +163,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic8.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic8.markdown">
+      <file leaf-file-name="2018-01-20-RealAnalysis4.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis4.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -213,12 +176,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-19-ElementaryLogic9.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic9.markdown">
+      <file leaf-file-name="2018-01-20-ComplexAnalysis2.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis2.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-19-LinearAlgebra14.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra14.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-20-AbstractAlgebra54.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra54.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-20-AbstractAlgebra.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="456">
+                <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -245,6 +247,13 @@
       <find>{{ \sigma_{i}</find>
       <find>title ;</find>
       <find>title :</find>
+      <find>title :\\\[[a-z ]*\]\\</find>
+      <find>title :\\\[[a-z ]*\\\]</find>
+      <find>title : \\\[[a-z ]*\]</find>
+      <find>title :\\\[[a-z ]*\]</find>
+      <find>[</find>
+      <find>title :\\\[Linear Algebra\]</find>
+      <find>title : \\\[Linear Algebra\]</find>
     </findStrings>
     <replaceStrings>
       <replace>\n\n</replace>
@@ -262,6 +271,11 @@
       <replace>title :</replace>
       <replace>title :[Linear Algebra]</replace>
       <replace>title :[Elementary Logic]</replace>
+      <replace>title :\\\[[a-z ]*\\\]</replace>
+      <replace>\[</replace>
+      <replace>title :\[Elementary Logic\]</replace>
+      <replace>title :\\\[Elementary Logic\\\]</replace>
+      <replace>title :\\\[Linear Algebra\\\]</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -271,31 +285,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis5.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis1.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis2.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis3.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis4.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis5.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis6.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis7.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis8.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis9.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology1.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology2.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology3.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology4.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology5.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology6.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology7.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology8.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology9.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology10.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology11.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology12.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology13.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology14.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra9.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra13.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra14.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra15.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra42.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra44.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra45.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra46.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra47.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra49.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra50.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra51.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra52.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra53.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra54.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra55.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra56.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis3.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis4.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis6.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis7.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis9.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis10.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysisappendix.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic1.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic3.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic5.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic6.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic7.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic8.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic9.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra2.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra3.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra4.markdown" />
@@ -304,24 +330,12 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra7.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra8.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra10.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra11.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra12.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra13.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra14.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra15.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra16.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra11.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra17.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic1.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic2.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic3.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra16.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic4.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic5.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic6.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic7.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic8.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic9.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown" />
+        <option value="$PROJECT_DIR$/about.md" />
       </list>
     </option>
   </component>
@@ -453,29 +467,128 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis5.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
-            <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis1.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra49.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
-            <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="28" />
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis2.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra50.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra51.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra52.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra53.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra55.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra56.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis3.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis4.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis6.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
@@ -486,7 +599,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis3.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis7.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis10.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysisappendix.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
@@ -497,231 +632,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis4.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis5.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis6.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis7.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis8.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis9.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology1.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology2.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology3.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology4.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology5.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology6.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology7.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology8.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology9.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology10.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology11.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology12.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology13.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology14.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra9.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic1.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="19">
-            <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra45.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic2.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic3.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic5.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic6.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic7.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic8.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic9.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="494">
+            <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
@@ -743,7 +768,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -754,7 +779,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -765,7 +790,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -776,7 +801,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -787,7 +812,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -805,33 +830,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra9.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra10.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra11.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra12.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -849,22 +863,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra14.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra17.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra15.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
@@ -874,52 +877,52 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra16.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra17.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic1.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra15.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="76">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic2.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra12.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic3.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra11.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="456">
+            <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
@@ -929,18 +932,29 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic4.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic5.markdown">
+    <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
+          <first_editor relative-caret-position="247">
+            <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis9.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
             <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             <folding />
           </first_editor>
@@ -948,66 +962,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic6.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry3.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic7.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis3.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic8.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis4.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic9.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis2.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic10.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra14.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-ElementaryLogic11.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra54.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />

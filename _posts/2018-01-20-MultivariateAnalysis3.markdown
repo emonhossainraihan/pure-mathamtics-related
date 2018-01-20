@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Calculus on Manifolds] Integration
+title : \[Calculus on Manifolds] Integration
 
 
 

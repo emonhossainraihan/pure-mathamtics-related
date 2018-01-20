@@ -6,7 +6,7 @@ layout: post
 
 
 
-title :  [Abstract Algebra] Computations of Homology Groups
+title :  (Abstract Algebra) Computations of Homology Groups
 
 
 

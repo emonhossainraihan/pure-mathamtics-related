@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Abstract Algebra] CAutomorphisms and Galois Theory
+title : (Abstract Algebra) CAutomorphisms and Galois Theory
 
 
 

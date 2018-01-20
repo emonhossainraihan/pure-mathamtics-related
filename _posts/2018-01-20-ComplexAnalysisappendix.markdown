@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Complex Analysis] Appendix
+title :  (Complex Analysis) Appendix
 
 
 

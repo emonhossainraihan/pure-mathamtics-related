@@ -1,6 +1,6 @@
 ---
 layout: post
-title : [Linear Algebra] Decomposition theorem 분해정리
+title : (Linear Algebra) Decomposition theorem 분해정리
 date : 2018-01-19 13:51:10 +0900
 ---
 (Section 8) 분해정리

@@ -1,6 +1,6 @@
 ---
 layout: post
-title :[Linear Algebra] Characteristic polynomial and Diagonalization 특성다항식과 대각화
+title : (Linear Algebra) Characteristic polynomial and Diagonalization 특성다항식과 대각화
 date : 2018-01-19 13:51:09 +0900
 ---
 (section 7) 특성다항식과 대각화

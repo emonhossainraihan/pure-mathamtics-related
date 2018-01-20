@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Abstract Algebra] CHomological Algebra
+title : (Abstract Algebra) Homological Algebra
 
 
 

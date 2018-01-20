@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Complex Analysis] The Fourier Transform
+title :  (Complex Analysis) The Fourier Transform
 
 
 

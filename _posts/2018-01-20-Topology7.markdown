@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Topology] Complete Metric spaces and Function spaces
+title : \[Topology] Complete Metric spaces and Function spaces
 
 
 

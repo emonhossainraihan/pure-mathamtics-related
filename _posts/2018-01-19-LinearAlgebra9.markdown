@@ -2,7 +2,7 @@
 
 layout: post
 
-title ; [Linear Algebra] Rigid Motion
+title : (Linear Algebra) Rigid Motion
 
 date : 2018-01-19 13:51:11 +0900
 
@@ -18,7 +18,7 @@ date : 2018-01-19 13:51:11 +0900
 
 (정의 9.1.9.) X,Y \in \mathbb{R}^{n} 일 때, \langle X, Y \rangle = 0 이면, X \perp Y 로 표기하고 X 와 Y는 서로 수직 (perpendicular, 또는 orthogonal) 이라고 말한다.
 
- S, T \subseteq \mathbb{R}^{n} 일 때, [\langle X , Y \rangle = 0 for all X \in S , Y \in T ] 이면, S \perp T 로 표기하고 S와 T는 서로 수직이라고 말한다.
+ S, T \subseteq \mathbb{R}^{n} 일 때, \[\langle X , Y \rangle = 0 for all X \in S , Y \in T ] 이면, S \perp T 로 표기하고 S와 T는 서로 수직이라고 말한다.
 
 (정의 9.1.11) \mathbb{R}^{n} 의 non-zero vector 들 X_{1}, …, X_{m} 이 mutually perpendicular 이면 – 즉 , [X_{i} \perp X_{j} for all 1 \le i \neq j \le m] 이면 – {X_{1}, …, X_{m}} 을 \mathbb{R}^{n} 의 orthogonal subset 이라고 부른다. 이 때, [\Vert X_{k} \Vert = 1 for all 1 \le k \le m] 의 조건도 만족하면, {X_{1}, …, X_{m}} 을 \mathbb{R}^{n} 의 orthonormal subset 이라고 부른다.
 

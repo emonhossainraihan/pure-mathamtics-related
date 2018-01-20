@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Topology] Classification of Covering spaces
+title : \[Topology] Classification of Covering spaces
 
 
 

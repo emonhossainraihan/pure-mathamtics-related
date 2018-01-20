@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : [Complex Analysis] Applications of Theta functions
+title : (Complex Analysis) Applications of Theta functions
 
 
 
