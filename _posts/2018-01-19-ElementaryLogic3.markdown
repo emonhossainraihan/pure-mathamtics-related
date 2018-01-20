@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Formalized Language L
+title :[Elementary Logic]  Formalized Language L
 
 date : 2018-01-19 13:52:06 +0900
 

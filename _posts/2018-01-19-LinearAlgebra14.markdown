@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Bilinear Form
+title :[Linear Algebra] Bilinear Form
 
 date : 2018-01-19 13:51:15 +0900
 

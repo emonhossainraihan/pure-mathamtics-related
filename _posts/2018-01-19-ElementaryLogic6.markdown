@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Tautologous Sentences
+title :[Elementary Logic]  Tautologous Sentences
 
 date : 2018-01-19 13:52:09 +0900
 

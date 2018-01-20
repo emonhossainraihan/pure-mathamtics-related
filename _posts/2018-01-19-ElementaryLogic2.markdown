@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Logic Preliminaries
+title :[Elementary Logic]  Logic Preliminaries
 
 date : 2018-01-19 13:52:05 +0900
 

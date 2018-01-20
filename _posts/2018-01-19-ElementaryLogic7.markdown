@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Rules of Inference for L
+title :[Elementary Logic]  Rules of Inference for L
 
 date : 2018-01-19 13:52:10 +0900
 

@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Factorization
+title : [Abstract Algebra] CFactorization
 
 
 

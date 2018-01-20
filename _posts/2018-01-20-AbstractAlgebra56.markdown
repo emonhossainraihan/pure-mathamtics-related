@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Insolvability of the Quintic
+title : [Abstract Algebra] CInsolvability of the Quintic
 
 
 

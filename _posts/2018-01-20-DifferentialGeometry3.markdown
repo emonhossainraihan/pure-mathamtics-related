@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : The Geometry of the Gauss Map
+title : [Differential Geometry] The Geometry of the Gauss Map
 
 
 

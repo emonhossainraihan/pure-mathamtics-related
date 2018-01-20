@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Spectral Theorem
+title :[Linear Algebra] Spectral Theorem
 
 date : 2018-01-19 13:51:17 +0900
 

@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Interpretations and Validity
+title :[Elementary Logic]  Interpretations and Validity
 
 date : 2018-01-19 13:52:07 +0900
 

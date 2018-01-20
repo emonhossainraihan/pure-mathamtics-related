@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Splitting Fields
+title : [Abstract Algebra] CSplitting Fields
 
 
 

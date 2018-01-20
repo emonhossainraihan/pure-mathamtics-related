@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : The Gamma and Zeta functions
+title : [Complex Analysis] The Gamma and Zeta functions
 
 
 

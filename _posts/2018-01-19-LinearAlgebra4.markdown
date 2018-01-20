@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Linear Mapping 선형 사상
+title :[Linear Algebra] Linear Mapping 선형 사상
 date : 2018-01-19 13:51:06 +0900
 ---
 (Section 4) 선형사상

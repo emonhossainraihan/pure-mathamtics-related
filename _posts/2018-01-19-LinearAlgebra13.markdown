@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Triangularization
+title :[Linear Algebra] Triangularization
 
 date : 2018-01-19 13:51:14 +0900
 

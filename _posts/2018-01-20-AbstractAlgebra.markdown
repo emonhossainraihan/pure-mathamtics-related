@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : simplex
+title : [Abstract Algebra] simplex
 
 
 

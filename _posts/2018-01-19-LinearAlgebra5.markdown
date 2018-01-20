@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Fundamental Theorem 기본정리
+title :[Linear Algebra] Fundamental Theorem 기본정리
 date : 2018-01-19 13:51:07 +0900
 ---
 (Section 5) 기본정리

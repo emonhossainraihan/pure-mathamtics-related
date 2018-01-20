@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : 삼각급수
+title : [Real Analysis 실해석] 삼각급수
 
 
 

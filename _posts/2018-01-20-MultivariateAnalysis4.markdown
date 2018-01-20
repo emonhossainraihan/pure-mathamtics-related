@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Integration on Chains
+title : [Calculus on Manifolds] Integration on Chains
 
 
 

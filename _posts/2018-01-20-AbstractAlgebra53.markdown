@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Galois Theory
+title : [Abstract Algebra] CGalois Theory
 
 
 

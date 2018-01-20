@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Regular Surfaces
+title : [Differential Geometry] Regular Surfaces
 
 
 

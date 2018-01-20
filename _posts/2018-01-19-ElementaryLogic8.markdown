@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Some Metatheorems
+title :[Elementary Logic]  Some Metatheorems
 
 date : 2018-01-19 13:52:11 +0900
 

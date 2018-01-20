@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Inner Product Space
+title :[Linear Algebra] Inner Product Space
 
 date : 2018-01-19 13:51:11 +0900
 

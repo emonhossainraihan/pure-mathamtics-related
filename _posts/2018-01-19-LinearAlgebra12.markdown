@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Quotient
+title :[Linear Algebra] Quotient
 
 date : 2018-01-19 13:51:13 +0900
 

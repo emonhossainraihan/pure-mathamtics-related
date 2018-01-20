@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Separable Extensions
+title : [Abstract Algebra] CSeparable Extensions
 
 
 

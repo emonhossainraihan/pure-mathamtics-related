@@ -6,11 +6,11 @@ layout: post
 
 
 
-title : Automorphisms and Galois Theory
+title : [Abstract Algebra] CAutomorphisms and Galois Theory
 
 
 
-date : 2018-01-20 10:53:04 +0900
+date : 2018-01-20 14:53:04 +0900
 
 
 

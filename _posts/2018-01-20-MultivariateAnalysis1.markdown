@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : Functions on Euclidean Space
+title : [Calculus on Manifolds] Functions on Euclidean Space
 
 
 

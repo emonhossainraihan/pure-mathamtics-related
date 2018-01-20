@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Determinant 행렬식
+title :[Linear Algebra] Determinant 행렬식
 date : 2018-01-19 13:51:08 +0900
 ---
 (Section 6) 행렬식

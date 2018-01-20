@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Formalized Theory
+title :[Elementary Logic]  Formalized Theory
 
 date : 2018-01-19 13:52:14 +0900
 

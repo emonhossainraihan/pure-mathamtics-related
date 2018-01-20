@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Rigid Motion
+title ; [Linear Algebra] Rigid Motion
 
 date : 2018-01-19 13:51:11 +0900
 

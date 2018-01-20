@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : The Intrinsic Geometry of Surfaces
+title : [Differential Geometry] The Intrinsic Geometry of Surfaces
 
 
 

@@ -2,7 +2,7 @@
 
 layout: post
 
-title : Axioms for L_{1}
+title :[Elementary Logic]  Axioms for L_{1}
 
 date : 2018-01-19 13:52:13 +0900
 

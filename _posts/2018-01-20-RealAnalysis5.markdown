@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : 푸리에 변환
+title : [Real Analysis 실해석] 푸리에 변환
 
 
 
