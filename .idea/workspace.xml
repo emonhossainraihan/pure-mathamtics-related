@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3495d79a-8621-4716-b9b1-cfff5301d428" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra42.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra44.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra45.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra46.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra47.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra49.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra50.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra51.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra52.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra53.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra54.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra55.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra56.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis2.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis3.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis4.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis6.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis7.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-ComplexAnalysis9.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry1.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry2.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry3.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry4.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-DifferentialGeometry5.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis1.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis2.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis3.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis4.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-MultivariateAnalysis5.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis1.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis2.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis3.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis4.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis5.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis6.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis7.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis8.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-RealAnalysis9.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology1.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology10.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology11.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology12.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology13.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology14.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology2.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology3.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology4.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology5.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology6.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology7.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology8.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-01-20-Topology9.markdown" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-18-welcome-to-jekyll.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown" afterPath="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,32 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-01-20-Topology5.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology5.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1216">
-                <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-20-Topology7.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology7.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3040">
-                <caret line="166" column="1" lean-forward="false" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2018-01-20-Topology6.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology6.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -187,12 +105,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-20-Topology14.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-20-Topology14.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-Topology14.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="401">
-                <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+                <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-20-AbstractAlgebra48.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="399">
+                <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-19-LinearAlgebra5.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra5.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -216,6 +160,7 @@
       <find>-</find>
       <find>-&gt;</find>
       <find>&lt;-</find>
+      <find>{{ \sigma_{i}</find>
     </findStrings>
     <replaceStrings>
       <replace>\n\n</replace>
@@ -237,7 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra49.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra50.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra51.markdown" />
@@ -288,6 +232,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology12.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology13.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-01-20-Topology14.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown" />
       </list>
     </option>
   </component>
@@ -419,28 +364,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="988">
-            <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra49.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="646">
-            <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra50.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -973,7 +896,29 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="401">
-            <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-LinearAlgebra5.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-20-AbstractAlgebra48.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
