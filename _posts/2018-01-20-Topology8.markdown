@@ -1,0 +1,126 @@
+---
+
+
+
+layout: post
+
+
+
+title : Baire Spaces and Dimension Theory
+
+
+
+date : 2018-01-20 10:52:04 +0900
+
+
+
+---
+
+8	Baire Spaces and Dimension Theory
+
+8.1	Baire Spaces
+
+8.1.1	A has Empty interior ( a subset A of a space X) : A contains no open set of X other than the empty set.
+
+8.1.1.1	A has empty interior if every point of A is a limit point of the complement of A.
+
+8.1.1.2	The complement of A is dense in X.
+
+8.1.2	Baire space ( a space X) : if the following condition holds.
+
+8.1.2.1	Given any countable collection {A_{n}} of closed sets of X each of which has empty interior in X, their union \bigcup A_{n} also has empty interior in X.
+
+8.1.3	First category in X ( a subset A of a space X) : it was contained in the union of a countable collection of closed sets of X having empty interiors in X.
+
+8.1.3.1	Second category in X (a subset A of a space X) : A is not on the first category in X.
+
+8.1.3.2	A space X is a Baire space iff every nonempty open set in X is of the second category.
+
+8.1.4	(Lem 48.1) X is a Baire space iff given any countable collection {U_{n}} of open sets in X, each of which is dense in X, their intersection \bigcap U_{n} is also dense in X.
+
+8.1.5	(Baire Category theorem) (Thm 48.2) : If X is a compact Hausdorff space or a complete metric space, then X is a Baire space.
+
+8.1.6	(Lem 48.3) Let C_{1} \supset C_{2} \supset … be a nested sequence of nonempty closed sets in the complete metric space X. If diam C_{n} -> 0, then \bigcap C_{n} \neq \empty
+
+8.1.7	(Lem 48.4) Any open subspace Y of a Baire space X is itself a Baire space.
+
+8.1.8	(Thm 48.5) Let X be a space; let (Y,d) be a metric space. Let f_{n} : X -> Y be a sequence of continuous functions s.t. f_{n} (x) -> f(x) for all x \in X, where f : X-> Y. If X is a baire space, the set of points at which f is continuous is dense in X
+
+8.1.8.1	Pf) (Lem 48.4)
+
+8.2	Nowhere-Differentiable function
+
+8.2.1	(Thm 49.1) Let h : [0,1] -> \mathbb{R} be a continuous function. Given \epsilon >0, there is a function g : [0,1] -> \mathbb{R} with \vert h(x) -> g(x) \vert < \epsilon for all x, s.t. g is continuous and nowhere differentiable.
+
+8.2.1.1	Pf) (Lemma 48.1) (Complete metric space -> Baire space) 
+
+8.2.1.1.1	piecewise-linear (a function g) : a function whose graph is a broken line segment; each line segment in the graph of g has slope at least \alpha in absolute value
+
+8.2.1.1.2	sawtooth graph
+
+8.3	Introduction to Dimension Theory
+
+8.3.1	\mathcal{A} has order m+1 ( a collection \mathcal{A} of subsets of the space X) : some points of X lies in m+1 elements of \mathcal{A}, and no point of X lies in more than m+1 elements of \mathcal{A}.
+
+8.3.2	Finite dimensional ( a space X) : There is some integer m s.t. for every open covering \mathcal{A} of X, there is an open covering \mathcal{B} of X that refines \mathcal{A} and has order at most m+1.
+
+8.3.3	Topological dimension of X (a space X) : the smallest value of m for a space X to be finite dimensional. 
+
+8.3.3.1	Dim X : Topological dimension of X
+
+8.3.3.2	Example
+
+8.3.3.2.1	Any compact subspace X of \mathcal{R} has topological dimension at most 1.
+
+8.3.3.2.2	Any compact subspace X of \mathcal{R}^{2} has topological dimension at most 2.
+
+8.3.4	(Thm 50.1) Let X be a space having finite dimension. If Y is a closed subspace of X, then Y has finite dimension and dim Y \le dim X.
+
+8.3.5	(Thm 50.2) Let X = Y \cup Z, where Y and Z are closed subspaces of X having finite topological dimension. Then dim X = max {dim Y, dim Z}
+
+8.3.5.1	Pf) (Thm 50.1) 
+
+8.3.5.2	(Cor 50.3) Let X = Y_{1} \cup … \cup Y_{k}, where each Y_{i} is a closed subspace of X and is finite dimensional. Then dim X = max{dim Y_{1} , .., dim Y_{k}}.
+
+8.3.6	Arc : a space homeomorphic to the closed unit interval
+
+8.3.6.1	Endpoints of Arc : the points p and q s.t. A – {p} and A-{q} are connected.
+
+8.3.6.2	Linear graph G : a Hausdorff space that is written as the union of finitely many arcs, each pair of which intersects in at most a common end point.
+
+8.3.6.3	Edges of G : arcs in the collection
+
+8.3.6.4	Vertices of G : endpoints of arcs
+
+8.3.6.5	Each edge of G is closed in G; G has topological dimension 1.
+
+8.3.6.6	Every finite linear graph can be imbedded in \mathbb{R}^{3}
+
+8.3.7	Geometrically independent (a set {\mathbf{x}_{0},…, \mathbf{x}_{k}} of points of \mathbb{R}^{N} ) : if the equation \sum_{I = 0}^{k} a_{i}mathbf{x}_{i} = \mathbf{0} and \sum_{I = 0}^{k} a_{i} = 0 holds only if each a_{i} = 0.
+
+8.3.8	Plane P determined by these points (a set of all points \mathbf{x} of of \mathbb{R}^{N} ) : Let {\mathbf{x}_{0},…, \mathbf{x}_{k}} be a set of points of \mathbb{R}^{N}  that is geometrically independent.\mathbf{x} = \sum_{I = 0}^{k} t_{i}mathbf{x}_{i} where \sum_{I = 0}^{k} t_{i} = 1.
+
+8.3.8.1	mathbf{x} = \mathbf{x}_{0} +  \sum_{I = 0}^{k} a_{i}( mathbf{x}_{i} - \mathbf{x}_{0}) for some scalars a_{1} , …, a_{k}
+
+8.3.8.2	Translation T of \mathbb{R}^{N} : a homeomorphism T : \mathbb{R}^{N} -> \mathbb{R}^{N} ; T(\mathbf{x}) = \mathbf{x – x_{0}}
+
+8.3.8.3	K-plane P in \mathbb{R}^{N} : a plane P
+
+8.3.9	A in general position in \mathbb{R}^{N} (a set A of points of \mathbb{R}^{N}) : every subset of A containing N + 1 or fewer points is geometrically independent
+
+8.3.10	(Lem 50.4) Given a finite set {\mathbf{x}_{1},…, \mathbf{x}_{n}} of points of \mathbb{R}^{N} and given \delta >0, there exists a set {\mathbf{y}_{1},…, \mathbf{y}_{n}} of points of \mathbb{R}^{N} in general position in \mathbb{R}^{N}, s.t. \vert x_{i} – y_{i} \vert < \delta for all i.
+
+8.3.10.1	Pf) (Def of Baire space) 
+
+8.3.11	(The imbedding Theorem) (Thm 50.5) Every compact metrizable space X of topological dimension m can be imbedded in \mathbb{R}^{2m+1}
+
+8.3.12	(Thm 50.6) Every compact subspace of \mathbb{R}^{N} has topological dimension at most N.
+
+8.3.12.1	Pf) M-cube : homeomorphic to the product (0,1)^{M}
+
+8.3.12.2	(Cor 50.7) Every compact m-manifold has topological dimension at most m.
+
+8.3.12.3	(Cor 50.8) Every compact m-manifold con be imbedded in \mathbb{R}^{2m+1}
+
+8.3.12.4	(Cor 50.9) Let X be a compact metrizable space. Then X can be imbedded in some Euclidean space \mathbb{R}^{N} iff X has finite topological dimension.
+

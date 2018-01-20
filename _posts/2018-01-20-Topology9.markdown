@@ -1,0 +1,360 @@
+---
+
+
+
+layout: post
+
+
+
+title : Fundamental Group
+
+
+
+date : 2018-01-20 10:52:04 +0900
+
+
+
+---
+
+9	Fundamental Group
+
+9.1	Homotopy of paths
+
+9.1.1	f is homotopic to f’ (two continuous maps f, f’ of the space X into the space Y) : Let I = [0,1]. there is a continuous map F : X \times I -> Y s.t. F(x,0) = f(x) and F(x,1) = f’(x). 
+
+9.1.1.1	Homotopy between f and f’ : the map F
+
+9.1.1.2	f \simeq f’ : f is homotopic to f’
+
+9.1.1.3	nulhomotopic f : If f \simeq f’ and f’ is a constant map
+
+9.1.2	Path in X from x_{0} to x_{1} ( a continuous map f : [0,1] -> X ) : f(0) = x_{0} , f(1) = x_{1}
+
+9.1.2.1	Initial point : x_{0}
+
+9.1.2.2	Final point : x_[1]
+
+9.1.3	Path homotopic ( two paths f, f’ : [0,1] ->X ) : They have the same initial point x_{0} and the same final point x_{1} and there is a continuous map F : I \times I -> X for each s \in I and each t \in I s.t.
+
+9.1.3.1	F (s, 0) = f(s) and F (s, 1) = f’(s)
+
+9.1.3.2	F (0,t) = x_{0} and F (1, t) = x_{1}
+
+9.1.3.2.1	F : a path homotopy between f and f’
+
+9.1.3.2.2	f \simeq_{p} f’ : f is path homotopic to f’
+
+9.1.4	(Lem 51.1) The relations \simeq and \simeq_{p} are equivalence relations.
+
+9.1.5	[ f ] : 	path-homotopy equivalence class of a path f
+
+9.1.6	Example
+
+9.1.6.1	Straight-line homotopy ( two maps f, g X -> \mathbb{R}^{2}) : F(x,t) = (1-t) f(x) + t g(x)
+
+9.1.6.2	Let A be any convex subspace of \mathbb{R}^{n}. Then any two paths f, g in A from x_{0} to x_{1} are path homotopic in A.
+
+9.1.7	Product f * g of f and g ( a path f in X from x_{0} to x_{1}, a path g in X from x_{1} to x_{2} ) : a path h given by the equations
+
+9.1.7.1	h(s) = \begin{cases} f(2s) for s \in [0,frac{1}{2}] , \\ g(2s – 1) for s \in [frac{1}{2}, 1] \end{cases}
+
+9.1.7.2	The function h is well-defined and continuous.
+
+9.1.7.2.1	Pf) pasting lemma
+
+9.1.7.3	h is a path in X from x_{0} to x_{2}
+
+9.1.8	(Groupoid properties of * )(Thm 51.2) The operation * has the following properties.
+
+9.1.8.1	(Associativity) If [ f ] * ( [ g ] * [ h ] ) is defined, so is ( [ f ] * [ g ] ) * [ h ] ,and they are equal.
+
+9.1.8.2	(Right and left identities) Given x \in X, let e_{x} denote the constant path e_{x} : I -> X carrying all of I to the point x. If f is a path in X from x_{0} to x_{1}, then [ f ] * [ e_{x_{1}} ] = [ f ] and [ e_{x_{0}} ] * [ f ] = [ f ]
+
+9.1.8.3	(Inverse) Given the path f in X from x_{0} to x_{1}, let \bar{f} be the path defined by \bar{f} (s) = f (1-s) . It is called the reverse of f. Then [ f ] * [ \bar{f} ] = [ e_{x_{0}} ] and [ \bar{f} ] * [ f ] = [ e_{x_{1}} ]
+
+9.1.8.4	Pf) convex
+
+9.1.9	(Thm 51.3) Let f be a path in X, and let a_{0}, …, a_{n} be numbers s.t. 0 = a_{0} < a_{1} < … < a_{n} = 1. Let f_{i} : I -> X be the path that equals the positive linear map of I onto [a_{i-1}, a_{i}] followed by f. Then [ f ] = [ f_{1} ] * .. * [ f_{n} ]
+
+9.2	Fundamental Group
+
+9.2.1	Suppose G and G’ are groups, written multiplicatively.
+
+9.2.1.1	Homomorphism (a map f : G -> G’) : f (x \cdot y) = f (x) \cdot f (y).
+
+9.2.1.1.1	f( e ) = e’
+
+9.2.1.1.2	f ( x^{-1} ) = f ( x ) ^ {-1}
+
+9.2.1.1.3	Kernel of f : the set f^{-1} (e’) , which is subgroup of G
+
+9.2.1.1.4	Monomorphism : an injective homomorphism
+
+9.2.1.1.5	Epimorphism : a surjective homomorphism
+
+9.2.1.1.6	Isomorphism : a bijective homomorphism
+
+9.2.1.2	Left coset xH of H in G (a subgroup H of a group G ) : the set of all products xh , for h \in H 
+
+9.2.1.3	Normal subgroup H of G (a subgroup H of a group G ) : x \cdots h \cdots x^{-1} \in H for each x \in G and each h \in H.
+
+9.2.1.4	G/H : a partition which is the collection of all coset forms.
+
+9.2.2	Quotient of G by H (a subgroup H of a group G ) : a group (G/H, \cdot ) which \cdot is a well-defined operation (x H) \cdot (y H) = (x \cdot y) H.
+
+9.2.2.1	If f : G -> G’ is an epimorphism, its kernel N is a normal subgroup of G and f induces an isomorphism G/N -> G’ ; x N -> f(x) for each x \in G.
+
+9.2.3	Loop based at x_{0} ( a point x_{0} of a space X ) : a path in X that begins and ends at x_{0} 
+
+9.2.4	Fundamental group of X relative to the base point x_{0} ( a point x_{0} of a space X ) : The set of path homotopy classes of loops based at x_{0} 
+
+9.2.4.1	\pi_{1} (X, x_{0}) <- Fundamental group of X relative to the base point x_{0}
+
+9.2.4.2	The operation * restricted to this set satisfies axioms for a group.
+
+9.2.4.3	Also called ‘ First homotopy group of X ‘
+
+9.2.4.4	Example
+
+9.2.4.4.1	For a convex subset X of \mathbb{R}^{n} \pi_{1} (X, x_{0}) is trivial group.
+
+9.2.4.4.2	Unit ball B^{n} in \mathbb{R}^{n} has trivial fundamental group.
+
+9.2.5	\alpha – hat : let \alpha be a path in X from x_{0} to x_{1}. A map \alpha – hat is \hat{\alpha} : \pi_{1} (X, x_{0}) -> \pi_{1} (X, x_{1}) by the equation \hat{\alpha}([ f ]) – [ \bar{\alpha} ] * [ f ] * [ \alpha ].
+
+9.2.6	(Thm 52.1) The map \hat{\alpha} is a group isomorphism.
+
+9.2.6.1	(Cor 52.2) If X is path connected and x_{0} and x_{1} are two points of X, then \pi_{1} (X, x_{0}) is isomorphic to \pi_{1} (X, x_{1})
+
+9.2.7	Simply connected ( a space X) : X is a path-connected space and if \pi_{1} (X, x_{0}) is the trivial (one-element) group for some x_{0} \in X, and hence for every x_{0} \in X.
+
+9.2.7.1	\pi_{1} (X, x_{0}) : \pi_{1} (X, x_{0}) is the trivial group.
+
+9.2.8	(Lem 52.3) In a simply connected space X, any two paths having the same initial and final points are path homotopic.
+
+9.2.9	h : (X, x_{0}) -> (Y, y_{0}) <- a continuous map that carries the point x_{0} of X to the point y_{0} of Y
+
+9.2.10	 Homomorphism h_{*} induced by h relative to the base point x_{0} (a continuous map h : (X, x_{0}) -> (Y, y_{0}) ) : h_{*} : \pi_{1} (X, x_{0}) -> \pi_{1} (Y, y_{0}) by the equation h_{*} ([ f ]) = [h \bullet f ]
+
+9.2.11	(Thm 52.4) If h : (X, x_{0}) -> (Y, y_{0}) and k : (Y, y_{0}) -> (Z, z_{0}) are continuous, then (k \bullet h)_{*} = k_{*} \bullet h_{*} . If i: (X, x_{0}) -> (X, x_{0}) is the identity map, then i_{*} is the identity homomorphism.
+
+9.2.11.1	(Cor) If h : (X, x_{0}) -> (Y, y_{0}) is a homomorphism of X with Y, then h_{*} is an isomorphism of \pi_{1} (X, x_{0}) with \pi_{1} (Y, y_{0})
+
+9.3	Covering Spaces
+
+9.3.1	Evenly covered by p ( an open set U of B, a map p : E -> B ) : Let p be continuous surjective map. The inverse image p^{-1} (U) can be written as the union of disjoint open sets V_{\alpha} in E s.t. for each \alpha, the restriction p to V_{\alpha} is a homeomorphism of V_{\alpha} onto U.
+
+9.3.1.1	A partition of p^{-1} (U) into slices : the collection {V_{\alpha}}
+
+9.3.2	Covering map ( a continuous surjective map p : E -> B) : Every point b of B has a neighborhood U that is evenly covered by p.
+
+9.3.2.1	a covering space E of B : if a covering map p : E -> B exists
+
+9.3.2.2	If p : E->B is a covering map, then for each b \in B the subspace p^{-1}(b) of E has the discrete topology.
+
+9.3.2.3	If p : E ->B is a covering map, then p is an open map.
+
+9.3.3	(Thm 53.1) The map p : \mathbb{R} -> S^{-1} given by the equation p(x) = (cos 2 \pi x , sin 2 \pi x ) is a covering map.
+
+9.3.4	A local homeomorphism p of E with B ( a map p : E-> B) : each point e of E has a neighborhood that is mapped homeomorphically by p onto an open subset of B.
+
+9.3.4.1	If p: E -> B is a covering map, then p is a local homeomorphism of E with B.
+
+9.3.4.2	Example 
+
+9.3.4.2.1	The map p : \mathbb{R}_{+} -> S^{1} ; p(x) = (cos 2 \pi x , sin 2 \pi x )
+
+9.3.5	(Thm 53.2) : Let p : E->B be a covering map. If B_{0} is a subspace of B, and if E_{0} = p^{-1}(B_{0}), then the map p_{0} : E_{0} -> B_{0} obtained by restricting p is a covering map.
+
+9.3.6	(Thm 53.3) If p : E -> B and p’ : E’ -> B’ are covering maps, then p \times p’ : E \times E’ -> B \times B’ is a covering map.
+
+9.3.6.1	Example
+
+9.3.6.1.1	For a Torus T = S^{-1} \times S^{-1}, p \times p : \mathbb{R} \times \mathbb{R} -> T
+
+9.3.6.1.2	Let b_{0} = p(0) of S^{1}; a figure-eight space B_{0} = a subspace (S^{1} \times b_{0}) U (b_{0} \times S^{1}) of S^{1} \times S^{1} ; an infinite grid E_{0} = (\mathbb{R} \times \mathbb{Z}) \cup (\mathbb{Z} \times \mathbb{R} ). Then the map p_{0} : E_{0} -> B_{0} = p \times p | E_{0} is a covering map.
+
+9.4	Fundamental group of the circle
+
+9.4.1	Lifting of f ( a continuous mapping f of some space X into B) : Let p : E-.B be a map. A lifting of f is a map \tilde{f} : X -> E s.t. p \bullet \tilde{f} = f.
+
+9.4.2	(Lem 54.1) Let p : E -> B be a covering map, let p(e_{0}) = b_{0}. Any path f : [0,1] -> B beginning at b_{0} has a unique lifting to a path \bar{f} in E beginning at e_{0}.
+
+9.4.2.1	Pf) (Lebesgue number lemma) (pasting lemma) 
+
+9.4.3	(Lem 54.2) Let p : E->B be a covering map; let p(e_{0}) = b_{0}. Let the map F : I \times I -> B be continuous, with F (0,0) = b_{0}. There is a unique lifting of F to a continuous map \tilde{F} : I \times I -> E s.t. \tilde{F} (0,0) = e_{0}. If F is a path homotopy, then \tilde{F} is a path homotopy.
+
+9.4.3.1	Pf) (Lem 54.1) (Lebesgue number lemma) (pasting lemma) 
+
+9.4.4	(Thm 54.3) Let p : E -> B be a covering map ; let p(e_{0}) = b_{0}. Let f and g be two paths in B from b_{0} to b_{1}; let \tilde{f} and \tilde{g} be their respective liftings to paths in E beginning ar e_{0}. If f and g are path homotopic, then \tilde{f} and \tilde{g} end at the same point of E and path homotopic.
+
+9.4.5	Lifting correspondence \phi derived from the covering map p ( a covering map p: E -> B) : Let b_{0} \in B. Choose e_{0} so that p(e_{0}} = b_{0}. Given an element [ f ] of \pi_{1} (B,b_{0}) , let \tilde{F} be the lifting of f to a path in E that begins at e_{0}. Let \phi([ f ]) denote the end point \tilde{f} (1) of \tilde{f}. Then \phi is a well-defined set map \phi : \pi_{1} (B,b_{0}) -> p^{-1} (b_{0}).
+
+9.4.6	(Thm 54.4) Let p: E->B be a covering map; let p(e_{0}) = b_{0}. If E is a path connected, then the lifting correspondence \phi : \pi_{1} (B,b_{0}) -> p^{-1} (b_{0}). Is surjective. If E is simply connected, it is bijective.
+
+9.4.7	(Thm 54.5) The fundamental group of S^{1} is isomorphic to the additive group of integers.
+
+9.4.7.1	Pf) (Thm 53.1)
+
+9.4.8	Cyclic group (a group G) : Let x be an element of G. the set of all elements of the form x^{m}, for m \in \mathbb{Z}, equals G
+
+9.4.8.1	The symbol x^{n} denotes the n-fold product of x with itself, x^{-n} denotes the n-fold product of x^{-1} with itself, and x^{0} denotes the identity element of G.
+
+9.4.8.2	x : a generator of G
+
+9.4.9	Order of the group : Cardinality of a group
+
+9.4.10	 (Thm 54.6) Let p : E->B be a covering map ; let p(e_{0}) = b_{0}.
+
+9.4.10.1	The homomorphism p_{*} : \pi_{1} (E,e_{0}) -> \pi_{1} (B,b_{0}) is a monomorphism.
+
+9.4.10.2	Let H = p_{*}( \pi_{1} (E,e_{0}) ). The lifting correspondence \phi induces an injective map \Phi : \pi_{1} (B,b_{0}) / H -> p^{-1} (b_{0}) of the collection of right cosets of H into p^{-1} (b_{0}), which is bijective if E is path connected.
+
+9.4.10.3	If f is a loop in B based at b_{0}, then [ f ] \in H iff f lifts to a loop in E based at e_{0}.
+
+9.4.10.3.1	Pf) \phi ( [ f ] ) = \phi ( [ g ] ) iff [ f ] \in H * [ g ].
+
+9.5	Retractions and Fixed Points
+
+9.5.1	Retraction of X onto A ( a subset A of X ) : a continuous map r : X -> A s.t. r |A is the identity map of A. 
+
+9.5.1.1	Retract A of X : If such a map r exists
+
+9.5.2	(Lem 55.1) If A is a retract of X, then the homomorphism of fundamental groups induced by inclusion j : A ->X is injective.
+
+9.5.3	(No-retraction theorem) (Thm 55.2) : There is no retraction of B^{2} onto S^{1}.
+
+9.5.3.1	B^{2} is a unit ball.
+
+9.5.4	(Lem 55.3) Let h : S^{1} -> X be a continuous map. Then the following conditions are equivalent.
+
+9.5.4.1	h is nullhomotopic.
+
+9.5.4.2	h extends to a continuous map k : B^{2} -> X.
+
+9.5.4.3	h_{*} is the trivial homomorphism of fundamental groups.
+
+9.5.5	(Cor 55.4) The inclusion map j : S^{1} -> \mathbb{R}^{2} - \mathbf{0} is not nullhomotopic. The identity map I : S^{1} -> S^{1} is not nullhomotopic.
+
+9.5.6	(Thm 55.5) Given a nonvanishing vector field on B^{2}, there exists a point of S^{1} where the vector field points directly inward and a point of s^{1} where it points directly outward.
+
+9.5.6.1	Vector field on B^{2} : an ordered pair (x, v(x)), where x is in B^{2} and v is a continuous map of B^{2} into \mathbb{R}^{2}.
+
+9.5.6.2	Nonvanishing (a vector field) : v(x) \neq \mathbf{0} for every x
+
+9.5.6.3	Pf) (Cor 55.4)
+
+9.5.7	(Brower fixed-point theorem for the disc) (Thm 55.6) : If f : B^{2} -> B^{2} is continuous, then there exists a point x \in B^{2} s.t. f(x) = x
+
+9.5.7.1	(Cor 55.7) Let A be a 3 by 3 matrix of positive real numbers. Then A has a positive real eigenvalue.
+
+9.5.8	(Thm 55.8) There is an \epsilon > 0 s.t. for every open covering \mathcal{A} of T by sets of diameter less than \epsilon, some point of T belongs to at least three elements of \mathcal{A}.
+
+9.5.8.1	T = {(x,y) | x \ge 0 and y \ge 0 and x + y \le 1}
+
+9.5.8.2	Pf) T is homeomorphic to B^{2}, a partition of unity, 
+
+9.6	Fundamental Theorem of Algebra
+
+9.6.1	(Fundamental theorem of algebra) (Thm 56.1) A polynomial equation x^{n} + a_{n-1} x^{n-1} + … + a_{1}x + a_{0} = 0 of degree n > 0 with real or complex coefficients has at least one (real or complex) root.
+
+9.6.1.1	Pf) g: S^{1} -> \mathbb{R}^{2} - \mathbf{0} ; g(z) = z^{n} is not nullhomotopic.
+
+9.7	Borsuk-Ulam Theorem 
+
+9.7.1	Antipode (a point x in S^{n}) : -x
+
+9.7.2	Antipode-preserving h ( a map h : S^{n} -> S^{m}) : h(-x) = -h(x) for all x \in S^{n}.
+
+9.7.3	(Thm 57.1) if h : S^{1}  -> S^{1} is continuous and antipode-preserving, then h is not nullhomotopic.
+
+9.7.3.1	Pf) covering map, 
+
+9.7.4	(Thm 57.2) There is no continuous antipode-preserving map g : S^{2} -> S^{1}.
+
+9.7.4.1	Pf) (Thm 57.1)
+
+9.7.5	(Borsuk-Ulam theorem for S^{2}) (Thm 57.3) Given a continuous map f : S^{2} -> \mathbb{R}^{2}, there is a point x of S^{2} s.t. f(x) = f(-x).
+
+9.7.6	(The bisection theorem) (Thm 57.4) Given two bounded polygonal regions in \mathbb{R}^{2}, there exists a line in \mathbb{R}^{2} that bisects each of them.
+
+9.7.6.1	Pf) (Borsuk-Ulam theorem)
+
+9.8	Deformation Retracts and Homotopy type
+
+9.8.1	(Lem 58.1) Let h, k : (X, x_{0}) -> (Y, y_{0}) be continuous maps, If h and k are homotopic, and if the image of the base point x_{0} of X remains fixed at y_{0} during the homotopy, then the homomorphisms h_{*} and k_{*} are equal.
+
+9.8.2	(Thm 58.2) The inclusion map j : S^{n} -> \mathbb{R}^{n+1} - \mathbf{0} induces an isomorphism of fundamental groups.
+
+9.8.2.1	Pf) (Lem 58.1)
+
+9.8.3	Deformation retract of X ( a subspace A of X) : the identity map of X is homotopic to a map that carries all of X into A, such that each point of A remains fixed during the homotopy. 
+
+9.8.3.1	Deformation retraction H of X onto A ( a homotopy H) : There is a continuous map H : X \times I -> X s.t. H(x,0) = x and H(x,1) \in A for all x \in X, and H(a,t) = a for all a \in A.
+
+9.8.3.2	The map r : X -> A defined by the equation r(x) = H(x,1) is a retraction of X onto A.
+
+9.8.3.3	H is a homotopy between the identity map of X and the map j \bullet r, where j : A -> X is inclusion.
+
+9.8.4	(Thm 58.3) Let A be a deformation retract of X ; let x_{0} \in A. Then the inclusion map j : (A, x_{0}) -> (X, x_{0}) induces an isomorphism of fundamental groups.
+
+9.8.5	Homotopy equivalences ( continuous maps f : X -> Y, g : Y -> X) : the map g \bullet f : X -> X is homotopic to the identity map of X, and the map f \bullet g : Y -> Y is homotopic to the identity map of Y. 
+
+9.8.5.1	Each is said to be a ‘homotopy inverse’ of the other.
+
+9.8.5.2	Relation of homotopy equivalence is an equivalence relation.
+
+9.8.5.3	Same Homotopy type : Spaces that are homotopy equivalent 
+
+9.8.6	(Lem 58.4) Let h, k : X -> Y be continuous maps; let h(x_{0}) = y_{0} and k(x_{0}) = y_{1}. If h and k are homotopic, there is a path \alpha in Y from y_{0} to y_{1} s.t. k_{*} = \hat{\alpha} \bullet h_{*}. Indeed, if H : X \times I -> Y is the homotopy between h and k, then \alpha is the path \alpha(t) = H(x_{0}, t)
+
+9.8.6.1	(Cor 58.5)  Let h, k : X ->Y be homotopic continuous maps; let h(x_{0}) = y_{0} and k(x_{0}) = y_{1}. If h_{*} is injective, or surjective, or trivial, so is k_{*}.
+
+9.8.6.2	(Cor 58.6) Let h : X -> Y. If h is nullhomotopic, then h_{*} is the trivial homomorphism.
+
+9.8.7	(Thm 58.7) Let f : X -> Y be continuous; let f(x_{0}) = y_{0}. If f is a homotopy equivalence, then f_{*} : \pi_{1} (X, x_{0}) ->\pi_{1} (Y, y_{0}) is an isomorphism.
+
+9.9	Fundamental Group of S^{n}
+
+9.9.1	(Thm 59.1) Suppose X = U \cup V, where U and V are open sets of X. Suppose that U \cap V is path connected, and that x_{0} \in U \cap V. Let I and j be the inclusion mappings of U and V, respectively, into X. Then the images of the induced homomorphisms i_{*} : \pi_{1} (U, x_{0}) ->\pi_{1} (X, x_{0}) and j_{*} : \pi_{1} (V, x_{0}) ->\pi_{1} (X, x_{0}) generate \pi_{1} (X, x_{0})
+
+9.9.1.1	Pf) there is a subdivision a_{0} < a_{1} < … < a_{n} of the unit interval s.t. f(a_{i}) \in U \cap V and f([a_{i-1}, a_{i}]) is contained either in U or in V, for each i., (Lebesgue number lemma)
+
+9.9.1.2	(Cor 59.2 ) Suppose X = U \cup V, where U and V are open sets of X; suppose X \cap V is nonempty and path connected, If U and V are simply connected, then X is simply connected.
+
+9.9.2	(Thm 59.3) If n \ge 2, then n-sphere S^{n} is simply connected.
+
+9.9.2.1	Stereographic projection f : (S^{n} – p) -> \mathbb{R}^{n} ; f(x) = f(x_{1}, …, x_{n+1}) = frac{1}{1-x_{n+1}} (x_{1}, …, x_{n}) where p = (0,…,0,1) \in \mathbb{R}^{n+1}
+
+9.9.2.2	Pf) (Cor 59.2)
+
+9.10	Fundamental Groups of Some Surfaces
+
+9.10.1	(Thm 60.1) \pi_{1} (X \times Y, x_{0} \times y_{0}) is isomorphic with \pi_{1}(X,x_{0}) \times \pi_{1} (Y, y_{0}).
+
+9.10.1.1	(Cor 60.2) The fundamental group of the torus T = S^{1} \times S^{1} is isomorphic to the group \mathbb{Z} \times \mathbb{Z}.
+
+9.10.2	Projective plane P^{2} : quotient space obtained from S^{2} by identifying each point x of S^{2} with its antipodal point -x.
+
+9.10.3	(Thm 60.3) The projective plane P^{2} is a compact surface, and the quotient map p: S^{2} -> P^{2} is a covering map.
+
+9.10.3.1	Pf) S^{2} is normal and p is a closed map -> P^{2} is Hausdorff
+
+9.10.3.2	(Cor 60.4) \pi_{1} (P^{2}, y) is a group of order 2.
+
+9.10.3.2.1	Pf) (Thm 54.4)
+
+9.10.4	 Projective n-space : quotient space obtained from S^{n} by identifying each point x of S^{2} with its antipodal point -x
+
+9.10.4.1	The projective plane P^{n} is a compact surface, and the quotient map p: S^{n} -> P^{n} is a covering map.
+
+9.10.5	(Lem 60.5) The fundamental group of the figure eight is not abelian.
+
+9.10.6	(Thm 60.6) The fundamental group of the double torus is not abelian.
+
+9.10.6.1	Double torus T#T : the surface obtained by taking two copies of the torus, deleting a small open disc from each of them, and pasting the remaining pieces together along their edges.
+
+9.10.6.2	Pf) Figure eight X is a retract of T#T.
+
+9.10.6.3	(Cor 60.7) The 2-sphere, torus, projective plane and double torus are topologically distinct.
+

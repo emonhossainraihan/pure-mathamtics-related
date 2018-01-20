@@ -1,0 +1,70 @@
+---
+
+
+
+layout: post
+
+
+
+title : The Gamma and Zeta functions
+
+
+
+date : 2018-01-20 09:52:04 +0900
+
+
+
+---
+
+(Section 6) The Gamma and Zeta functions
+
+(subsection 1) The gamma function
+
+(Def) For s >0, the gamma function is defined by \Gamma(s) = \int_{0}^{\infty} e^{-t}t^{s-1} dt. 
+
+(Prop 1.1.) The gamma function extends to an analytic function in the half-plane Re(s) >0, and is still given there by the integral formula as defined.
+
+(subsubsection 1.1.) Analytic continuation
+
+(Lem 1.2.) If Re(s) >0, then \Gamma(s+1) = s \Gamma(s) as a consequence \Gamma(n+1) = n! for n = 0,1,2,…
+
+(Thm 1.3.) The function \Gamma(s) initially defined for Re(s) >0 has an analytic continuation to a meromorphic function on \mathbb{C} whose only singularities are simple poles at the negative integers s = 0, -1, …. The residue of \Gamma at s = -n is (-1)^{n}/n!.
+
+(subsection 1.2.) Further properties of \Gamma
+
+(Thm 1.4.) For all s \in \mathbb{C}, \Gamma(s) \Gamma(1-s) = \frac{\pi}{sin \pi s}.
+
+(Lem 1.5.) For 0<a<1, \int_{0}^{\infty}\frac{v^{a-1}}{1+v} dv = \frac{\pi}{sin \pi a} .
+
+(Thm 1.6.) The function \Gamma has the following properties : 1/\Gamma(s) is an entire function of s with simple zeros at s = 0,-1,-2,… and it vanishes nowhere else.
+
+1/\Gamma(s) has growth |\frac{1}{\gamma(s)}| \le c_{1} e^{c_{2} |s| log|s|}. Therefore, 1/\Gamma is of order 1 in the sense that for every \epsilon >0, there exists a bound c(\epsilon) so that |\frac{1}{\Gamma(s)}| \le c(\epsilon)e^{c_{2}}|s|^{1+\epsilon}.
+
+(Thm 1.7.) For all s \in \mathbb{C}, \frac{1}{\Gamma(s)} = e^{\gamma s} s \prod_{n = 1}^{\infty} (1+\frac{s}{n}) e^{-s/n}. The real number \gamma, which is known as Euler’s constant, is defined by \gamma = \lim_{N \to \infty} \sum_{n = 1}^{N} \frac{1}{n} – log N.
+
+(subsection 2) The zeta function
+
+(Def) The Riemann zeta function is initially defined for real s >1 by the convergent series \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^{s}}. 
+
+(subsubsection 2.1.) Functional equation and analytic continuation
+
+(Prop 2.1.) The series defining \zeta(s) converges for Re(s) >1, and the function \zeta is holomorphic in this half-plane.
+
+(Def) Consider the theta function, which is defined for real t>0 by \vartheta (t) = \sum_{n = -\infty}^{\infty} e^{-\pi n^{2} t}.
+
+(Thm 2.2.) If Re(s) >1, then \pi^{-s/2} \Gamma(s/2) \zeta(s) = \frac{1}{2} \int_{0}^{\infty} u^{(s/2)-1} [\vartheta(u) -1] du.
+
+(Def) The modification of the \zeta function called the xi function, which makes the former appear more symmetric. It is defined for Re(s) >1 by \xi(s) = \pi^{-s/2} \Gamma(s/2) \zeta(s).
+
+(Thm 2.3.) The function \xi is holomorphic for Re(s) >1 and has an analytic continuation to all of \mathbb{C} as a meromorphic function with simple poles at s = 0 and s = 1. Moreover, \xi(s) = \xi (1-s) for all s \in \mathbb{C}.
+
+(Thm 2.4.) The zeta function has a meromorphic continuation into the entire complex plane, whose only singularity is a simple pole at s = 1.
+
+(Prop 2.5.) There are a sequence of entire functions {\delta_{n}(s)}_{n=1}^{\infty} that satisfy the estimate |\delta_{n}(s)| \ge |s|/n^{\sigma +1} , where s = \sigma + it , and such that \sum_{1 \le n < N} \frac{1}{n^{s}}-\infty_{1}^{N} \frac{dx}{x^{s}} = \sum_{1 \le n < N} \delta_{n}(s), whenever N is an integer >1.
+
+(Cor 2.6.) For Re(s) >0 we have \zeta(s) - \frac{1}{s-1} = H(s) , where H(s) = \sum_{n = 1}^{\infty} \delta_{n}(s) is holomorphic in the half-plane Re(s) >0.
+
+(Prop 2.7.) Suppose s = \sigma + it with \sigma, t \in \mathbb{R}. Then for each \sigma_{0}, 0 \le \sigma_{0} \le 1 , and every \epsilon >0, there exists a constant c_{\epsilon} so that |\zeta(s)| \le c_{\epsilon} |t|^{1-\sigma_{0} + \epsilon}, if \sigma_{0} \le \sigma and |t| \ge 1.
+
+|\zeta’(s)| \le c_{\epsilon} |t|^{\epsilon}, if 1 \le \sigma and |t| \ge 1.
+
