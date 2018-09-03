@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : (Abstract Algebra) CIllustrations of Galois Theory
+title : (Abstract Algebra) Illustrations of Galois Theory
 
 
 

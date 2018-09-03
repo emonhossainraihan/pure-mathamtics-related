@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : (Abstract Algebra) CThe Isomorphism Extension Theorem
+title : (Abstract Algebra) The Isomorphism Extension Theorem
 
 
 

@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : (Abstract Algebra) CGaussian integers and multiplicative Norms
+title : (Abstract Algebra) Gaussian integers and multiplicative Norms
 
 
 

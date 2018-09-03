@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : (Abstract Algebra) CEuclidean Domains
+title : (Abstract Algebra) Euclidean Domains
 
 
 
