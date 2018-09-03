@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Topology] Fundamental concepts of Topology
+title :  (Topology) Fundamental concepts of Topology
 
 
 

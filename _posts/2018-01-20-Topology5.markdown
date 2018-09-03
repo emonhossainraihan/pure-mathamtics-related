@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Topology] Tychonoff Theorem
+title : (Topology) Tychonoff Theorem
 
 
 

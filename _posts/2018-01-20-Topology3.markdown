@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Topology] Connectedness and Compactness
+title : (Topology) Connectedness and Compactness
 
 
 
