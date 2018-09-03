@@ -6,8 +6,9 @@
   <body>
 
     {% include header.html %}
-    {% include google-search.html %}
-
+    <div class="wrapper">
+        {% include google-search.html %}
+    </div>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}

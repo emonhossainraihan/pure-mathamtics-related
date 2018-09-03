@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Differential Geometry] Global Differential Geometry
+title : (Differential Geometry) Global Differential Geometry
 
 
 

@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Calculus on Manifolds] Differentiation
+title : (Calculus on Manifolds) Differentiation
 
 
 

@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Differential Geometry] Curves
+title : (Differential Geometry) Curves
 
 
 

@@ -6,7 +6,7 @@ layout: post
 
 
 
-title : \[Real Analysis 실해석] 노음공간
+title : (Real Analysis 실해석) 노음공간
 
 
 

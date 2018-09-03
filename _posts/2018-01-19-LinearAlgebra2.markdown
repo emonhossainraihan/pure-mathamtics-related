@@ -106,7 +106,7 @@ vector space V 의 덧셈의 항등원 \\(0 \in V\\) 는 유일하다.
 을 만족하는 bijection \\(\phi: V \to V’\\) 이 존재하면, 우리는 F-vector space V 와 V’ 이 isomorphic 하다 말하고, \\(V \approx V’ \\)혹은 
 
 
-\begin{tikzpicture}
+$$\begin{tikzpicture}
 \matrix (m) [matrix of math nodes,row sep=3em,column sep=4em,minimum width=2em] 
 {V &V’ 
 
@@ -114,8 +114,8 @@ vector space V 의 덧셈의 항등원 \\(0 \in V\\) 는 유일하다.
 \path[-stealth]
 (m-1-1) edge node [above] {\\)\phi\\(} node [below]{\\)\approx\\)} 
 (m-1-2);
-\end{tikzpicture}
-로 표기한다. 이 때, \\(\phi\\) 를 (F-vector space) isomorphism (from V onto V’) 이라고 부른다.
+\end{tikzpicture}$$
+로 표기한다. 이 때, $\phi$ 를 (F-vector space) isomorphism (from V onto V’) 이라고 부른다.
 
 
 (관찰 2.4.2) \\(\phi : V \to W\\) 가 isomorphism 이면, \\(\phi(0) = 0\\) 이고, 모든 \\(v \in V\\)에 대해 \\(\phi(-v) = -\phi(v)\\) 이다.
