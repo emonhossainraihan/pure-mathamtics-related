@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>axiom &#8212; Oh Hyun Seok 0.0.1 documentation</title>
+    <link rel="stylesheet" href="_static/classic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/language_data.js"></script>
+    
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Contact" href="contact.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="contact.html" title="Contact"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Oh Hyun Seok 0.0.1 documentation</a> &#187;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="axiom">
+<h1>axiom<a class="headerlink" href="#axiom" title="Permalink to this headline">¶</a></h1>
+<p>10	Axioms for L_{1}</p>
+<p>10.1	Introduction</p>
+<p>10.1.1	Axioms : easily recognizable valid sentences</p>
+<p>10.1.2	 (Modus Ponens) : A sentence Φ follows from sentences Ψ and χ by modus ponens iff χ = (Ψ -&gt; Φ)</p>
+<p>10.1.3	Definitionally equivalent to a formula Ψ ( a formula Φ ) : formulas χ, θ, Φ_{1}, Φ_{2} s.t. Φ and Ψ are alike except that one contains an occurrence of χ at some place where the other contains an occurrence of θ, and either</p>
+<p>10.1.3.1	 Χ = (Φ_{1} v Φ_{2}) and θ = (-Φ_{1} -&gt; Φ_{2})</p>
+<p>10.1.3.2	 Χ = (Φ_{1} &amp; Φ_{2}) and θ = -(Φ_{1} -&gt; -Φ_{2})</p>
+<p>10.1.3.3	 Χ = (Φ_{1} \(\iff\) Φ_{2}) and θ = ((Φ_{1}-&gt; Φ_{2}) &amp; (Φ_{2}-&gt; Φ_{1}))</p>
+<p>10.1.3.4	 Χ = (∃α)Φ_{1} and θ = -(α)-Φ_{1}</p>
+<p>10.1.4	 Proof : a finite sequence of sentences, each of which is an axiom or is definitionally equivalent to an earlier sentence of the sequence or follows from earlier sentences by modus ponens.</p>
+<p>10.1.5	 Theorem (a sentence Φ) : Φ is the last line of a proof.</p>
+<p>10.1.5.1	\(\vdash\) Φ : all closures of Φ are theorems.</p>
+<p>10.1.6	 Notation : Φ, Ψ, χ are formulas. α is variables. β γ are individual symbols. P, Q, R, T are expressions.</p>
+<p>10.1.7	If Φ and Φ -&gt;Ψ are theorems, then Ψ is a theorem.</p>
+<p>10.1.8	If Φ is a sentence, Φ-&gt;Φ is a theorem.</p>
+<p>10.1.9	If Φ, Ψ, χ are sentences, (Ψ -&gt; χ)-&gt; ((Φ-&gt;Ψ) -&gt;(Φ-&gt;χ)) is a theorem.</p>
+<p>10.1.10	If Φ-&gt;Ψ and Ψ-&gt;χ are theorems, then Φ-&gt;χ is a theorem.</p>
+<p>10.1.11	(Mathematical induction) : All the positive integers have some given property P ?</p>
+<p>10.1.11.1	(weak induction)</p>
+<p>10.1.11.1.1	1 has the property P</p>
+<p>10.1.11.1.2	For every positive integer k, if k has the property P, then k+1 has the property P</p>
+<p>10.1.11.2	(Strong induction)</p>
+<p>10.1.11.2.1	For each positive integer k, if all positive integers less than k have the property P, then k has the property P.</p>
+<p>10.1.12	Q(Φ-&gt;Ψ) -&gt;(QΦ-&gt;QΨ) is a theorem, if Q is a string of universal quantifiers containing every variable that occurs free in Φ or Ψ.</p>
+<p>10.1.13	If QΦ and Q(Φ-&gt;Ψ) are theorems, then QΨ is a theorem, where Q is a string of universal quantifiers.</p>
+<p>10.1.14	\(\vdash\)(Ψ-&gt;χ)-&gt;((Φ-&gt;Ψ)-&gt;(Φ-&gt;χ))</p>
+<p>10.1.15	If Q(Φ-&gt;Ψ) and Q(Ψ-&gt;χ) are theorems, then Q(Φ-&gt;χ) is a theorem.</p>
+<p>10.1.16	\(\vdash\)Q(Φ-&gt;Ψ) -&gt;(QΦ-&gt;QΨ)</p>
+<p>10.1.17	\(\vdash\)QΦ-&gt;Φ</p>
+<p>10.1.18	\(\vdash\)Φ-&gt;QΦ, if no variable in Q occurs free in Φ.</p>
+<p>10.1.19	\(\vdash\)QΦ-&gt;PΦ, if every variable in P is either in Q or does not occur free in Φ.</p>
+<p>10.1.20	If Ψ and χ are closures of Φ, then Ψ-&gt;χ is a theorem, and χ is a theorem if Ψ is a theorem.</p>
+<p>10.1.21	If \(\vdash\) Φ and \(\vdash\)Φ-&gt;Ψ, then \(\vdash\)Ψ.</p>
+<p>10.1.22	If \(\vdash\)Φ and Ψ is definitionally equivalent to Φ, then \(\vdash\)Ψ.</p>
+<p>10.1.23	If \(\vdash\)Φ-&gt;Ψ and \(\vdash\)Ψ-&gt;χ, then \(\vdash\)Φ-&gt;χ</p>
+<p>10.1.24	\(\vdash\)Φ iff \(\vdash\)QΦ-&gt;QΨ</p>
+<p>10.1.25	If \(\vdash\)Φ-&gt;Ψ, then \(\vdash\)QΦ-&gt;QΨ</p>
+<p>10.2	Sentential calculus (lo\(\Vvdash\) bo\(\Vvdash\) ,full of one-liner theorems)</p>
+<p>10.2.1	(Replacement) : If \(\vdash\)Φ\(\iff\)Ψ and χ is like θ except for having an occurrence of Φ at some place where θ has an occurrence of Ψ, then \(\vdash\)χ\(\iff\)θ and \(\vdash\)χ iff \(\vdash\)θ.</p>
+<p>10.3	Quantification theory (lo\(\Vvdash\) bo\(\Vvdash\), full of one-liner theorems)</p>
+<p>10.4	Identity, further quantification theory, and substitution</p>
+<p>10.4.1	(Substitution) If Φ is a theorem and Ψ is a substitution-instance of Φ, then Ψ is a theorem.</p>
+<p>10.4.1.1	Stencil : an expression either a sentence of L_{1} or is obtainable from such a sentence by putting the counters ①, ②, ③, .. where that sentence contains occurrences of individual constants.</p>
+<p>10.4.1.2	Substitute σ for θ in Φ ( σ : stencil of degree n, θ : n-ary predicate other than I^{2}<em>{1}, Φ : a sentence in L</em>{1} ) : for each occurrence of θδ_{1}δ_{2}..δ_{n} in Φ where δ_{1},δ_{2},..,δ_{n} are individual symbols, put σ(δ_{1},δ_{2},..,δ_{n})</p>
+<p>10.4.1.3	Legitimate ( a substitution) : If in this substitution we have at all places obeyed the rule that no variable shall occur bound at any place in any substituted σ(δ_{1},δ_{2},..,δ_{n}) unless it already occurs bound at that place in σ</p>
+<p>10.4.1.4	A substitution-instance of a sentence Φ ( a sentence Ψ) : Ψ can be obtained from Φ by a legitimate substitution.</p>
+<p>10.5	Proofs from assumptions</p>
+<p>10.5.1	Proof of the sentence Φ from the assumptions Γ (a set of sentences Γ) : Φ is the last term of the sequence and each term of the sequence is either an axiom or one of the assumptions Γ or follows from earlier terms by modus ponens or definitional interchange.</p>
+<p>10.5.2	 Γ\(\Vvdash\)Φ : there is a proof of Φ from the assumptions Γ</p>
+<p>10.5.3	(empty set) \(\Vvdash\) Φ iff Φ is a theorem</p>
+<p>10.5.4	If Φ ∈ Γ, then Γ \(\Vvdash\) Φ</p>
+<p>10.5.5	If Γ \(\Vvdash\) Φ and Γ ⊂ Δ, then Δ \(\Vvdash\) Φ</p>
+<p>10.5.6	If Γ \(\Vvdash\) Φ and Δ \(\Vvdash\) Φ -&gt; Ψ, then Γ U Δ \(\Vvdash\) Ψ</p>
+<p>10.5.7	(Deduction Theorem) Γ U { Φ } \(\Vvdash\) Ψ iff Γ \(\Vvdash\) Φ -&gt; Ψ</p>
+<p>10.5.8	Γ \(\Vvdash\) Φ iff Γ U {-Φ} \(\Vvdash\) ‘P&amp;-P’</p>
+<p>10.5.9	Γ \(\Vvdash\) Φ iff for every sentence Ψ, Γ U { - Φ } \(\Vvdash\) Ψ</p>
+<p>10.5.10	Γ \(\Vvdash\) Φ iff Φ is a consequence of Γ.</p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="contact.html"
+                        title="previous chapter">Contact</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/axiom.md.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="contact.html" title="Contact"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Oh Hyun Seok 0.0.1 documentation</a> &#187;</li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2020, Hyunseok Oh.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 2.3.1.
+    </div>
+  </body>
+</html>

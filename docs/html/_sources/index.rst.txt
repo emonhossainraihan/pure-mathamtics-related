@@ -12,6 +12,7 @@ Welcome to Oh Hyun Seok's documentation!
 
    license
    contact
+   axiom
 
 
 Indices and tables
