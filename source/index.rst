@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Oh Hyun Seok's documentation!
+Technical Blog & Wiki of Hyunseok Oh
 ========================================
 
 .. toctree::
@@ -18,7 +18,15 @@ Welcome to Oh Hyun Seok's documentation!
    MultivarAnalysis/index
    DiffGeometry/index
    Topology/index
-   
+ 
+.. toctree::
+   :hidden:
+   :caption: Computer Science
+
+.. toctree::
+   :hidden:
+   :caption: Artificial Intelligence
+ 
 .. toctree::
    :hidden:
    :caption: About

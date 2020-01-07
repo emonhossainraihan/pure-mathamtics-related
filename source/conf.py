@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Oh Hyun Seok'
+project = 'ohsai'
 copyright = '2020, Hyunseok Oh'
 author = 'Hyunseok Oh'
 
