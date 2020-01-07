@@ -7,7 +7,6 @@ Welcome to Oh Hyun Seok's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
    :hidden:
    :caption: Mathematics
 
