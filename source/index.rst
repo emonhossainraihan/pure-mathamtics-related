@@ -10,9 +10,9 @@ Welcome to Oh Hyun Seok's documentation!
    :hidden:
    :caption: Mathematics
 
-   abstract_algebra/index
    license
    contact
+   AbstractAlgebra/index
    
 
 
