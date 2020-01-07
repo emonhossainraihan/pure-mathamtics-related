@@ -10,6 +10,8 @@ Welcome to Oh Hyun Seok's documentation!
    :hidden:
    :caption: Mathematics
 
+   ElementaryLogic/index
+   LinearAlgebra/index
    AbstractAlgebra/index
    ComplexAnalysis/index  
    RealAnalysis/index
