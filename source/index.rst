@@ -10,10 +10,7 @@ Welcome to Oh Hyun Seok's documentation!
    :hidden:
    :caption: Mathematics
 
-   license
-   contact
    ElementaryLogic/index
-   LinearAlgebra/index
    AbstractAlgebra/index
    ComplexAnalysis/index  
    RealAnalysis/index
@@ -21,6 +18,11 @@ Welcome to Oh Hyun Seok's documentation!
    DiffGeometry/index
    Topology/index
    
+.. toctree::
+   :hidden:
+   :caption: About
+
+   contact
 
 Indices and tables
 ==================
