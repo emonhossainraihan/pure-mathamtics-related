@@ -1,20 +1,5 @@
----
-
-
-
-layout: post
-
-
-
-title :  (Complex Analysis) Appendix
-
-
-
-date : 2018-01-20 09:52:04 +0900
-
-
-
----
+Appendix
+-------
 
 (Appendix A) Asymptotics
 
