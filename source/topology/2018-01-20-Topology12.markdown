@@ -1,0 +1,132 @@
+---
+
+
+
+layout: post
+
+
+
+title : (Topology) Classification of Surfaces
+
+
+
+date : 2018-01-20 10:52:04 +0900
+
+
+
+---
+
+12	Classification of Surfaces
+
+12.1	Fundamental Groups of surfaces
+
+12.1.1	Polygonal region P determined by the points p_{i} : Given a point c of \mathbb{R}^{2} and given a >0, consider the circle of radius a in \mathbb{R}^{2} with center at c. Given a finite sequence \theta_{0} < \theta_{1} < \cdots < \theta_{n} of real numbers, where n \ge 3 and \theta_{n} = \theta_{0} + 2\pi, consider the points p_{i} = c + a(cos\theta_{i}, sin\theta_{i}), which lie on this circle. They are numbered in counterclockwise order around circle, and p_{n} = p_{0}. The line through p_{i-1} and p_{i} splits the plane into two closed half-planes; let H_{i} be the one that contains all the points p_{k}. Then P is P = H_{1} \cap \cdots \cap H_{n}.
+
+12.1.1.1	vertices of P : points p_{i}
+
+12.1.1.2	edge of P : the line segment joining p_{i-1} and p_{i}.
+
+12.1.1.3	Bd P : Union of the edges of P
+
+12.1.1.4	Int P : P – Bd P
+
+12.1.1.5	If p is any point of Int P, then P is the union of all line segments joining p and points of Bd P, and that two such line segments intersects only in the points p.
+
+12.1.2	Given a line segment L in \mathbb{R}^{2}
+
+12.1.2.1	orientation of L is simply an ordering of its end points
+
+12.1.2.1.1	the first, a, is the initial point of the oriented line segments.
+
+12.1.2.1.2	the second, b, is the final point of the oriented line segments.
+
+12.1.2.1.3	L is oriented from a to b
+
+12.1.2.1.4	If L’ is another line segment oriented from c to d, then the positive linear map of L onto L’ is the homeomorphism h : L -> L’; x = (1-s)a + sb -> h(x)0 = (1-s)c + sd 
+
+12.1.3	Labeling of the edges of P ( a polygonal region P in the plane) : a map from the set of edges of P to a set of labels S. given an orientation of each edge of P , and given a labeling of the edges of P, we define an equivalence relation on the points of P as follows: Each point of Int P is equivalent only to itself. Given any two edges of P that have the same label, let h be the positive linear map of one onto the other, and define each point x of the first edge to be equivalent to the point h(x) of the second edge. This relation generates an equivalence relation on P. The quotient space X obtained from this equivalence relation is said to have been obtained by pasting the edges of P together according to the given orientations and labeling.
+
+12.1.4	Let P be a polygonal region with successive vertices p_{0}, .., p_{n}, where p_{0} = p_{n}. Given orientations and a labeling of the edges of P, let a_{1}, .., a_{m} be the distinct labels that are assigned to the edges of P. For each k, let a_{ik} be the label assigned to the edge p_{k-1}p_{k}, and let \epsilon_{k} = +1 or -1 according as the orientation assigned to this edge goes from p_{k-1} to p_{k} or the reverse. Then the number of edges of P, the orientations of the edges, and the labeling are completely specified by the symbol w = (a_{i_{1}})^{\epsilon_{1}}(a_{i_{2}})^{\epsilon_{2}} \cdots (a_{i_{n}})^{\epsilon_{n}}. We call this symbol a labeling scheme of length n for the edges of P; it is simply a sequence of labels with exponents +1 or -1.
+
+12.1.5	(Thm 74.1) Let X be a space obtained from a finite collection of polygonal regions by pasting edges together according to some labelling scheme, Then X is a compact Hausdorff space.
+
+12.1.6	(Thm 74.2) Let P be a polygonal region; let w = (a_{i_{1}})^{\epsilon_{1}} (a_{i_{2}})^{\epsilon_{2}} \cdots (a_{i_{n}})^{\epsilon_{n}} be a labeling scheme for the edges of P. Let X be the resulting quotient space; let \pi : P ->X be the quotient map. If \pi maps all the vertices of P to a single point x_{0} of X, and if a_{1}, …, a_{k} are the distinct labels that appear in the labeling scheme, then \pi_{1}(X,x_{0}) is isomorphic to the quotient of the free groups on k generators \alpha_{1} .. \alpha_{k} by the least normal subgroup containing the element (\alpha_{i_{1}})^{\epsilon_{1}}   (\alpha_{i_{2}})^{\epsilon_{2}} \cdots (\alpha_{i_{n}})^{\epsilon_{n}}
+
+12.1.7	Consider the space obtained from a 4n-sided polygonal region P by means of the labeling scheme (a_{1}b_{1}a_{1}^{-1}b_{1}^{-1})(a_{2}b_{2}a_{2}^{-1}b_{2}^{-1}) \cdots (a_{n}b_{n}a_{n}^{-1}b_{n}^{-1}). This space is called the n-fold connected sum of tori, or simply the n-fold torus, and denoted T# \cdots #T.
+
+12.1.8	(Thm 74.3) Let X denote the n-fold torus. Then \pi_{1}(X,x_{0}) is isomorphic to the quotient of the free group on the 2n generators \alpha_{1}, \beta{1}, …, \alpha_{n}, \beta{n} by the least normal subgroup containing the element [\alpha_{1}, \beta{1}] [\alpha_{2}, \beta{2}] \cdots [\alpha_{n}, \beta{n}] where [\alpha,\beta] = \alpha \beta \alpha^{-1}\beta^{-1}.
+
+12.1.9	Let m>1. Consider the space obtained from a 2m-sided polygonal region P in the plane by means of the labeling scheme (a_{1}a_{1})(a_{2}a_{2})\cdots(a_{m}a_{m}). This space is called the m-fold connected sum of the projective planes, or simply the m-fold projective plane, and denoted P^{2}# \cdots #P^{2}.
+
+12.1.10	(Thm 74.4) Let X denote the m-fold projective plane. Then \pi_{1}(X,x_{0}) is isomorphic to the quotient of the free group on m generators \alpha_{1}, … ,\alpha_{m} by the least normal subgroup containing the element (a_{1})^{2} (a_{2})^{2}\cdots(a_{m})^{2}.
+
+12.2	Homology of Surfaces
+
+12.2.1	 If X is a path-connected space, Let H_{1}(X) = pi_{1}(X, x_{0}) / [\pi_{1}(X,x_{0}), \pi_{1}(X,x_{0}) ]. We call H_{1} (X) the first homology group of X. 
+
+12.2.1.1	we omit the basepoint from the notation because there is a unique path-induced isomorphism between the abelianized fundamental groups based at two different points.
+
+12.2.2	Homology groups of X H_{n}(X) 
+
+12.2.3	(Thm 75.1) Let F be a group; let N be a normal subgroup of F; let q : F -> F/N be the projection. The projection homomorphism p : F -> F / [F,F] induces an isomorphism \phi : q(F) / [q(F), q(F)] -> p(F)/p(N).
+
+12.2.3.1	(Cor 75.2) Let F be a free group with free generators \alpha_{1}, …, \alpha_{n}; let N be the least normal subgroup of F containing the elements x of F; let G = F/N. Let p : F -> F/[F,F] be projection. Then G/[G,G] is isomorphic to the quotient of F/[F,F], which is free abelian with basis p(\alpha_{1}), …, p(\alpha_{n}), by the subgroup generated by p(x).
+
+12.2.4	(Thm 75.3) If X is the n-fold connected sum of tori, then H_{1}(X) is a free abelian group of rank 2n.
+
+12.2.5	(Thm 75.4) If X is the m-fold connected sum of projective planes, then the torsion subgroup T(X) of H_{1}(X) has order 2, and H_{1}(X)/T(X) is a free abelian group of rank m-1.
+
+12.2.6	(Thm 75.5) Let T_{n} and P_{m} denote the n-fold connected sum of tori and the m-fold connected sum of projective planes, respectively. Then the surfaces S^{2}; T_{1}, T_{2}, …; P_{1}, P_{2}, … are topologically distinct.
+
+12.3	Cutting and Pasting 
+
+12.3.1	(Theorem 76.1) Suppose X is the space obtained by pasting the edges of m polygonal regions together according to the labeling scheme y(*) _{0}y_{1}, w_{2}, .., w_{m}. Let c be a label not appearing in this scheme. If both y_{0} and y_{1} have length at least two, then X can also be obtained by pasting the edges of m+1 polygonal regions together according to the scheme (**) y_{0}c^{-1} , cy_{1}, w_{2}, …, w_{m}. Conversely if X is the space obtained from m+1 polygonal regions by means of the scheme (**), it can also be obtained from m polygonal regions by means of the scheme(*) providing that c does not appear in scheme (*).
+
+12.3.2	Elementary operations on schemes
+
+12.3.2.1	On a labeling scheme w_{1}, …, w_{m} without affecting the resulting quotient space X.
+
+12.3.2.1.1	Cut. One can replace the scheme w_{1} = y_{0}y_{1} by the scheme y_{0}c^{-1} and cy_{1}, provided c does not appear elsewhere in the total scheme and y_{0} and y_{1} have length at least two.
+
+12.3.2.1.2	Paste. One can replace the scheme y_{0}c^{-1} and cy_{1} by the scheme y_{0}y_{1}, provided c does not appear elsewhere in the total scheme.
+
+12.3.2.1.3	Relabel. One can replace all occurrences of any given label by some other label that does not appear elsewhere in the scheme. Similarly, one can change the sign of the exponent of all occurrences of a given label a; this amounts to reversing the orientations of all the edges labeled “a”. Neither of these alterations affect the pasting map.
+
+12.3.2.1.4	Permute : One can replace any one of the schemes w_{i} by a cyclic permutation of w_{i}. Specifically, if w_{i} = y_{0}y_{1}, we can replace w_{i} by y_{1}y_{0}. This amount to renumbering the vertices of the polygonal region P_{i} so as to begin with a different vertex; it does not affect the resulting quotient space.
+
+12.3.2.1.5	Flip. One can replace any one of the schemes w_{i} = (a_{i_{1}}) ^{\epsilon_{1}} (a_{i_{2}})^{\epsilon_{2}} \cdots (a_{i_{n}})^{\epsilon_{n}} by its formal inverse w^{-1}_{i} = (a_{i_{n}})^{-\epsilon_{n \cdots (a_{i_{1}})^{-\epsilon_{1}} This amounts to simply to “flipping the polygonal region P_{i} over”. The order of vertices is reversed, and so is the orientation of each edge. The quotient space X is not affected.
+
+12.3.2.1.6	Cancel. One can replace the scheme w_{i} = y_{0}aa^{-1}y_{1} by the scheme y_{0}y_{1}, provided a does not appear elsewhere in the total scheme and both y_{0} and y_{1} have length at least two.
+
+12.3.2.1.7	Uncancel. This is the reverse of Cancel. It replaces the scheme y_{0}y_{1} by the scheme y_{0}aa^{-1}y_{1}, where a is a label that does not appear elsewhere in the total scheme. 
+
+12.3.3	 Define two labeling schemes for collections of polygonal regions to be equivalent if one can be obtained from the other by a sequence of elementary scheme operations.
+
+12.3.3.1	Since each elementary operation has as its inverse another such operation, this is an equivalence relation.
+
+12.4	Classification Theorem
+
+12.4.1	Suppose w_{1}, …, w_{k} is a labeling scheme for the polygonal regions P_{1}, …, P_{k} If each label appears exactly twice in this scheme, we call it a proper labeling scheme. 	If one applies any elementary operation to a proper scheme, one obtains another proper scheme.
+
+12.4.2	Let w be a proper labeling scheme for a single polygonal region, we say w is of torus type if each label in it appears once with exponent +1 and once with exponent -1. Otherwise, we say w is of projective type.
+
+12.4.3	(Lem 77.1) Let w be a proper scheme of the form w = [y_{0}]a[y_{1}]a[y_{2}] where some of the y_{i} may be empty. Then one has the equivalence w ~ aa[y_{0}y_[1]^{-1}y_{2}] where y_{1}^{-1} denotes the formal inverse of y_{1}.
+
+12.4.3.1	(Cor 77.2) If w is a scheme of projective type, then w is equivalent to a scheme of the same length having the form (a_{1}a_{1})(a_{2}a_{2}) \cdots (a_{k}a_{k})w where k \ge 1 and w_{1} is either empty or of torus type.
+
+12.4.4	(Lem 77.3) Let w be a proper scheme of the form w = w_{0}w_{1}, where w_{1} is a scheme of torus type that does not contain two adjacent terms having the same label. Then w is equivalent to a scheme of the form w_{0}w_{2}, where w_{2} has the same length as w_{1} and has the form w_{2} = aba^{-1}b^{-1} w_{3} where w_{3} is of torus type or is empty.
+
+12.4.5	(Lem 77.4) Let w be a proper scheme of the form w = w_{0}(cc)(aba^{-1}b^{-1})w_{1}. Then w is equivalent to the scheme w’ = w_{0}(aabbcc)w_{1}.
+
+12.4.6	(Classification theorem)(Thm 77.5) Let X be the quotient space obtained from a polygonal region in the plain by pasting its edges together in pairs. Then X is  homeomorphic either to S^{2}, to the n-fold torus T_{n}, or to the m-fold projective plane P_{m}.
+
+12.5	Constructing Compact surfaces 
+
+12.5.1	Let X be a compact Hausdorff space. A curved triangle in X is a subspace A of X and a homeomorphism h : T -> A, where T is a closed triangular region in the plane. If e is an edge of T, then h(e) is said to be an edge of A; if v is a vertex of T, then h(v) is said to be a vertex of A. A triangulation of X is a collection of curved triangles A_{1}, …, A_{n} in X whose union is X s.t. for i \neq j, the intersection A_{i} \cap A_{j} is either empty, or a vertex of both A_{i} and A_{j}, or an edge of both. Furthermore, if h_{i} : T_{i} -> A_{i} is the homeomorphism associated with A_{i}, we require that when A_{i} \cap A_{j} is an edge e of both, then the map h_{j}^{-1}h_{i} defines a linear homeomorphism of the edge h_{i}^{-1}€ of T_{i} with the edge h_{j}^{-1}(e) of T_{j}. If X has a triangulation, It is said to be triangulable.
+
+12.5.1.1	Every compact surface is triangulable.
+
+12.5.2	(Thm 78.1) If X is a compact triangulable surface, then X is homeomorphic to the quotient space obtained from a collection of disjoint triangular regions in the plane by pasting their edges together in pairs.
+
+12.5.3	(Thm 78.2) If X is a compact connected triangulable surface, then X is homeomorphic to a space obtained from a polygonal region in the plane by pasting the edges together in pairs.
+

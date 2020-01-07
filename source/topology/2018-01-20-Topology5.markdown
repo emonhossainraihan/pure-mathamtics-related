@@ -1,0 +1,66 @@
+---
+
+
+
+layout: post
+
+
+
+title : (Topology) Tychonoff Theorem
+
+
+
+date : 2018-01-20 10:52:04 +0900
+
+
+
+---
+
+5	Tychonoff Theorem
+
+5.1	Tychonoff Theorem
+
+5.1.1	(Lem 37.1) Let X be a set; let \mathcal{A} be a collection of subsets of X having the finite intersection property. Then there is a collection \mathcal{D} of subsets of X s.t. \mathcal{D} contains \mathcal{A}, and \mathcal{D} has the finite intersection property, and no collection of subsets of X that properly contains \mathcal{D} has this property.
+
+5.1.1.1	A collection \mathcal{D} satisfying the conclusion of this theorem is maximal with respect to the finite intersection property.
+
+5.1.1.2	Pf) (Zorn’s lemma) 
+
+5.1.2	(Lem 37.2) Let X be a set; Let \mathcal{D} be a collection of subsets of X that is maximal with respect to the finite intersection property. Then
+
+5.1.2.1	Any finite intersection of elements of \mathcal{D} is an element of \mathcal{D}.
+
+5.1.2.2	If A is a subset of X that intersects every element of \mathcal{D}, then A is an element of \mathcal{D}.
+
+5.1.3	(Tychonoff Theorem) (Thm 37.3) An arbitrary product of compact spaces is compact in the product topology.
+
+5.1.3.1	Pf) (Lem 37.1) (Lem 37.2)
+
+5.2	Stone- \check{C} ech Compactification
+
+5.2.1	Compactification Y of space X : a compact Hausdorff space Y containing X as a subspace s.t. \bar{X} = Y. 
+
+5.2.2	Equivalent (Two compactifications Y_{1} and Y_{2} of a space X) : there is a homeomorphism h : Y_{1} -> Y_{2} s.t. h(x) = x for every x \in X.
+
+5.2.3	(Lem 38.1) Let X be a space; suppose that h: X->Z is an imbedding of X in the compact Hausdorff space Z. Then there exists a corresponding compactification Y of X; it has the property that there is an imbedding H : Y -> Z that equals h on X. The compactification Y is uniquely determined up to equivalence.
+
+5.2.3.1	Compactification Induced by imbedding h : Y
+
+5.2.4	(Thm 38.2) Let X be a completely regular space. There exists a compactification Y of X having the property that every bounded continuous map f : X -> \mathbb{R} extends uniquely to a continuous map of Y into \mathbb{R}.
+
+5.2.4.1	Pf) (Tychonoff Theorem), (Thm 34.2) (Lem 38.3)
+
+5.2.5	(Lem 38.3) Let A \subset X; let f : A -> Z be a continuous map of A into the Hausdorff space Z. There is at most one extension of f to a continuous function g:\bar{A} ->Z.
+
+5.2.6	(Thm 38.4) Let X be a completely regular space; let Y be a compactification of X satisfying the extension property of (Thm 38.2). Given any continuous map f: X->C of X into a compact Hausdorff space C, the map f extends uniquely to a continuous map g : Y -> C.
+
+5.2.6.1	Pf) (Completely regular -> imbedded in [0,1]^{J} for some J)
+
+5.2.7	(Thm 38.5) Let X be a completely regular space. If Y_{1} and Y_{2} are two compactifications of X satisfying the extension property of (Thm 38.2), then Y_{1} and Y_{2} are equivalent.
+
+5.2.7.1	Pf) (Preceding theorem)
+
+5.2.8	Stone- \check{C} ech compactification of X ( a completely regular space X) : \beta (X),  a compactification of X satisfying the extension condition of (Thm 38.2)
+
+5.2.8.1	Any continuous map f : X->C of X into a compact Hausdorff space C extends uniquely to a continuous map g : \beta (X) -> C.
+

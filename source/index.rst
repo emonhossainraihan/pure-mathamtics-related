@@ -8,11 +8,13 @@ Welcome to Oh Hyun Seok's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: Mathematics
 
+   abstract_algebra/index
    license
    contact
-   axiom
+   
 
 
 Indices and tables

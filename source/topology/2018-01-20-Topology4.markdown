@@ -1,0 +1,168 @@
+---
+
+
+
+layout: post
+
+
+
+title : (Topology) Countability and Separation Axioms
+
+
+
+date : 2018-01-20 10:52:04 +0900
+
+
+
+---
+
+4	Countability and Separation Axioms
+
+4.1	Countability axioms
+
+4.1.1	a countable basis at the point x ( a space X) : there is a countable collection \mathcal{B} of neighborhoods of x s.t. any neighborhood U of x contains at least one of the elements of \mathcal{B}.
+
+4.1.2	First countability axiom : A space X that has a countable basis at each of its points 
+
+4.1.2.1	Also called ‘first-countable’
+
+4.1.3	(Thm 30.1) Let X be a topological space.
+
+4.1.3.1	Let A be a subset of X. If there is a sequence of points of A converging to x, then x \in \bar{A} ; the converse holds if X is first-countable.
+
+4.1.3.2	Let f : X -> Y. If f is continuous, then for every convergent sequence x_{n} -> x in X, the sequence f (x_{n}) converges to f(x). The converse holds if X is first-countable.
+
+4.1.4	Second countability axiom : A space X has countable basis for its topology
+
+4.1.4.1	Also called ‘second-countable’
+
+4.1.5	(Thm 30.2) A subspace of a first-countable space is first-countable, and a countable product of first-countable spaces is first-countable. A subspace of a second-countable space is second-countable, and a countable product of second-countable spaces is second-countable.
+
+4.1.6	Dense in X ( a subset A of a space X) : \bar{A} – X
+
+4.1.7	(Thm 30.3) Suppose that X has a countable basis. Then
+
+4.1.7.1	Every open covering of X contains a countable subcollection covering X.
+
+4.1.7.2	There exists a countable subset of X that is dense in X.
+
+4.1.8	Lindelöf space : A space for which every open coveing contains a countable subcovering
+
+4.1.9	Separable (a space) : a space has a countable dense subset 
+
+4.1.9.1	Not a good term
+
+4.2	Separation Axioms
+
+4.2.1	Regular ( a space X) : Suppose that one-point sets are closed in X. For each pair consisting of a point x and a closed set B disjoint from x, there exist disjoint open sets containing x and B.
+
+4.2.1.1	Regular space is Hausdorff space.
+
+4.2.2	Normal ( a space x) : Suppose that one-point sets are closed in X. For each pair A, B of disjoint closed sets of X, there exists disjoint open sets containing A and B, respectively.
+
+4.2.2.1	Normal space is Regular space.
+
+4.2.3	(Lem 31.1) Let X be a topological space. Let one-point sets in X be closed.
+
+4.2.3.1	X is regular iff given a point given a point x of X and a neighborhood U of x, there is a neighborhood V of x s.t. \bar{V} \subset U.
+
+4.2.3.2	X is normal iff given al closed set A and an open set U containing A, there is an open set V containing A s.t. \bar{V} \subset U.
+
+4.2.4	(Thm 31.2)
+
+4.2.4.1	A subspace of a Hausdorff space is Hausdorff; a product of Hausdorff spaces is Hausdorff.
+
+4.2.4.2	A subspace of a regular space is regular, a product of regular spaces is regular.
+
+4.2.4.3	Pf) (Lem 31.1), (Thm 19.5)
+
+4.2.5	Example
+
+4.2.5.1	Sorgenfrey plane \mathbb{R}^{2}_{l} is not normal.
+
+4.3	Normal spaces
+
+4.3.1	(Thm 32.1) Every regular space with a countable basis is normal.
+
+4.3.2	(Thm 32.2) Every metrizable space is normal.
+
+4.3.3	(Thm 32.3) Every compact Hausdorff space is normal.
+
+4.3.3.1	Pf) (Lem 26.4) 
+
+4.3.4	(Thm 32.4) Every well-ordered set X is normal in the order topology.
+
+4.3.5	Examples not normal
+
+4.3.5.1	If J is uncountable, the product space \mathbb{R}^{J} is not normal.
+
+4.3.5.2	The product space S_{\Omega} \times \bar{S_{\Omega}} is not normal.
+
+4.4	Urysohn lemma
+
+4.4.1	(Urysohn lemma) (Thm 33.1) Let X be a normal space; let A and B be disjoint closed subsets of X. Let [a,b] be a closed interval in the real line. Then there exists a continuous map f : X -> [a,b] s.t. f(x) = a for every x in A, and f(x) = b for every x in B.
+
+4.4.1.1	Pf) (Thm 10.1) 
+
+4.4.2	A and B can be separated by a continuous function ( two subsets A,B of the topological space X) : there is a continuous function f : X -> [0,1] s.t. f(A) = {0} and f(B) = {1}.
+
+4.4.3	Completely regular ( a space X) : one-point sets are closed in X and if for each point x_{0} and each closed set A not containing x_{0}, there is a continuous function f : X->[0,1] s.t. f(x_{0}) = 1 and f(A) = {0}
+
+4.4.4	(Thm 33.2) A subspace of a completely regular space is completely regular. A product of completely regular spaces is completely regular.
+
+4.4.4.1	Examples
+
+4.4.4.1.1	\mathbb{R}^{2}_{l}, S_{\Omega} \times \bar{S_{\Omega}} is completely regular.
+
+4.5	Urysohn Metrization Theorem
+
+4.5.1	(Urysohn Metrization Theorem) (Thm 34.1) Every regular space X with a countable basis is metrizable. 
+
+4.5.1.1	Pf) (Thm 20.5) , (There exists a countable collection of continuous functions f_{n} : X -> [0,1] having the property that given any point x_{0} of X and any neighborhood U of x_{0}, there exists an index n s.t. f_{n} is positive at x_{0} and vanishes outside U) , (Urysohn lemma), imbedding
+
+4.5.2	(Imbedding Theorem) (Thm 34.2) 
+
+4.5.2.1	Let X be a space in which one-point sets are closed. Suppose that {f_{\alpha}}_{\alpha \in J} is an indexed family of continuous function f_{\alpha} : X -> \mathbb{R} satisfying the requirement that for each point x_{0} of X and each neighborhood U of x_{0}, there is an index \alpha s.t. f_{\alpha} is positive at x_{0} and vanishes outside U. 
+
+4.5.2.1.1	Separate points from closed sets in X : a family of continuous functions behaving as {f_{\alpha}}_{\alpha \in J}
+
+4.5.2.2	Then the function F : X->R^{J} defined by F(x) = (f_{\alpha} (x) )_{\alpha \in J} is an imbedding of X in \mathbb{R}^{J}. 
+
+4.5.2.3	If f_{\alpha} maps X into [0,1] for each \alpha, then F imbeds X in [0,1]^{J}.
+
+4.5.3	(Thm 34.3) A space X is completely regular iff it is homeomorphic to a subspace of [0,1]^{J} for some J.
+
+4.6	Tietze Extension Theorem
+
+4.6.1	(Tietze Extension Theorem) (Thm 35.1) : Let X be a normal space; Let A be a closed subspace of X.
+
+4.6.1.1	Any continuous map of A into the closed interval [a,b] of \mathbb{R} may be extended to a continuous map of all of X into [a,b]
+
+4.6.1.2	Any continuous map of A into \mathbb{R} may be extended to a continuous map of all of X into \mathbb{R}.
+
+4.6.1.3	Pf) (Urysohn lemma), (Weierstrass M-test), uniform convergence
+
+4.7	Imbeddings of Manifolds
+
+4.7.1	M-manifold : a Hausdorff space X with a countable basis s.t. each point x of X has a neighborhood that is homeomorphic with an open subset of \mathbb{R}^{m}.
+
+4.7.1.1	Curve : 1-manifold
+
+4.7.1.2	Surface : 2-manifold
+
+4.7.2	Support of \phi (\phi : X -> \mathbb{R}) : closure of the set \phi^{-1} ( \mathbb{R} – {0} )
+
+4.7.3	Partition of unity dominated by {U_{i}} ( a finite index open covering {U_{1}, …, U_{n}}  of the space X) : Indexed family of continuous functions \phi_{i} : X -> [0,1] for i = 1, …, n if :
+
+4.7.3.1	(support \phi_{i}) \subset U_{i} for each i.
+
+4.7.3.2	\sum_{i = 1}^{n} \phi_{i} (x) = 1 for each x.
+
+4.7.4	(Existence of finite partitions of unity) (Thm 36.1) : Let {U_{1}, …, U_{n}} be a finite open covering of the normal space X. Then there exists a partition of unity dominated by {U_{i}}.
+
+4.7.4.1	Pf) (Urysohn lemma) 
+
+4.7.5	(Thm 36.2) If X is a compact m-manifold, then X can be imbedded in \mathbb{R}^{N} for some positive integer N.
+
+4.7.5.1	Pf) (compact & Hausdorff -> normal) 
+

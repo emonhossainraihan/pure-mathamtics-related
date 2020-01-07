@@ -1,0 +1,118 @@
+---
+
+
+
+layout: post
+
+
+
+title : (Topology) Metrization Theorems and Paracompactness
+
+
+
+date : 2018-01-20 10:52:04 +0900
+
+
+
+---
+
+6	Metrization Theorems and Paracompactness
+
+6.1	Local finiteness
+
+6.1.1	Locally finite in X (a collection \mathcal{A} of subsets of a topological space X) : Every point of X has a neighborhood that intersects only finitely many elements of \mathcal{A}. 
+
+6.1.2	(Lem 39.1) Let \mathcal{A} be a locally finite collection of subsets of X. Then;
+
+6.1.2.1	Any subcollection of \mathcal{A} is locally finite.
+
+6.1.2.2	The collection \mathcal{B} = {\bar{A} }_{A \in \mathcal{A}} of the closures of the elements of \mathcal{A} is locally finite.
+
+6.1.2.3	\bar{\bigcup_{A \in \mathcal{A}}} = \bigcup_{A \in \mathcal{A}} \bar{A}
+
+6.1.3	Locally finite indexed family in X ( an indexed family {A_{\alpha}}_{\alpha \in J} ) : every x \in X has a neighborhood that intersects A_{\alpha} for only finitely many values of \alpha.
+
+6.1.4	Countably locally finite ( a collection \mathcal{B} of subsets of X) : \mathcal{B} can be written as the countable union of collections \mathcal{B}_{n} , each of which is locally finite.
+
+6.1.5	Refinement \mathcal{B} of \mathcal{A} ( a collection \mathcal{B} of subsets of X) : for each element B of \mathcal{B}, there is an element A of \mathcal{A} containing B.
+
+6.1.5.1	Also called ‘ to refine \mathcal{A}’
+
+6.1.5.2	Open refinement of \mathcal{A} ( a collection \mathcal{B} of subsets of X) : elements of \mathcal{B} are open sets
+
+6.1.5.3	Closed refinement of \mathcal{A} ( a collection \mathcal{B} of subsets of X) : elements of \mathcal{B} are closed sets
+
+6.1.6	(Lem 39.2) Let X be a metrizable space. If \mathcal{A} is an open covering of X, then there is an open covering \Epsilon of X that is countably locally finite.
+
+6.1.6.1	Pf) (well-ordering theorem)
+
+6.2	Nagata-Smirnov Metrization Theorem	
+
+6.2.1	G_{\delta} set in X ( a subset A of a space X) : it equals the intersection of a countable collection of open subsets of X.
+
+6.2.2	(Lem 40.1) Let X be a regular space with a basis \mathcal{B} that is countably locally finite. Then X is normal, and every closed set in X is a G_{\delta} set in X.
+
+6.2.2.1	Pf) (Lem 39.1) (Thm 32.1)
+
+6.2.3	(Lem 40.2) Let X be normal; let A be a closed G_{\delta} set in X. Then there is a continuous function f : X-> [0,1] s.t. f(x) = 0 for x \in A and f(x) > 0 for x \notin A.\
+
+6.2.4	(Nagata-Smirnov Metrization Theorem) (Thm 40.3) : A space X is metrizable iff X is regular and has a basis that is countably locally finite.
+
+6.2.4.1	Pf) (Lem 39.2) 
+
+6.3	Paracompactness
+
+6.3.1	Paracompact ( a space X) : every open covering \mathcal{A} of X has a locally finite open refinement \mathcal{B} that covers X.
+
+6.3.1.1	\mathbb{R}^{n}
+
+6.3.2	(Thm 41.1) Every paracompact Hausdorff space X is normal.
+
+6.3.3	(Thm 41.2) Every closed subspace of a paracompact space is paracompact.
+
+6.3.4	(Lem 41.3) Let X be regular. Then the following conditions on X are equivalent; Every open covering of X has a refinement that is;
+
+6.3.4.1	An open covering of X and countably locally finite.
+
+6.3.4.2	A covering of X and locally finite.
+
+6.3.4.3	A closed covering of X and locally finite
+
+6.3.4.4	An open covering of X and locally finite
+
+6.3.4.5	Pf) (Lem 39.1) 
+
+6.3.5	(Thm 41.4) Every metrizable space is paracompact
+
+6.3.5.1	Pf) (Lem 39.2)
+
+6.3.6	(Thm 41.5) Every regular Lindelöf space is paracompact.
+
+6.3.6.1	Pf) (Preceding lemma) 
+
+6.3.7	Partition of unity on X, dominated by {U_{\alpha}} ( a indexed open covering {U_{\alpha}}_{\alpha \in J}  of the space X) : Indexed family of continuous functions \phi_{\alpha} : X -> [0,1] for i = 1, …, n if :
+
+6.3.7.1	(support \phi_{\alpha}) \subset U_{\alpha} for each \alpha
+
+6.3.7.2	The indexed family {Support \phi_{\alpha} } is locally finite
+
+6.3.7.3	\sum \phi_{\alpha} (x) = 1 for each x.
+
+6.3.8	(Shrinking lemma)(Lem 41.6) Let X be a paracompact Hausdorff space; Let {U_{\alpha}}_{\alpha \in J} be an indexed family of open sets covering X. Then there exists a locally finite indexed family {V_{\alpha}}_{\alpha \in J} of open sets covering X s.t. \bar{V}_{\alpha} \subset U_{\alpha} for each \alpha.
+
+6.3.8.1	Family {\bar{V}_{\alpha}} is a ‘precise refinement’ of the faminy {U_{\alpha}} \bar{V}_{\alpha} \subset U_{\alpha} for each \alpha.
+
+6.3.9	(Thm 41.7) Let X be a paracompact Hausdorff space; let {U_{\alpha}}_{\alpha \in J} be an indexed open covering of X. Then there exists a partition of unity on X dominated by {U_{\alpha}}.
+
+6.3.9.1	Pf) (Shrinking lemma)
+
+6.3.10	(Thm 41.8) Let X be a paracompact Hausdorff space; let \mathcal{C} be a collection of subsets of X; for each C \in \mathcal{C}, let \epsilon_{C} be a positive number. If \mathcal{C} is locally cinite, there is a continuous function f: X->\mathbb{R} s.t. f(x) >0 for all x, and f(x) \le \epsilon_{C} for x \in C.
+
+6.4	Smirnov Metrization Theorem
+
+6.4.1	Locally metrizable (a space X) : Every point x of X has a neighborhood U that is metrizable in the subspace topology.
+
+6.4.2	(Smirnov metrization theorem) (Theorem 42.1) Space X is metizable iff it is a paracompact Hausdorff space that is locally metrizable.
+
+6.4.2.1	Pf) similar to (Thm 40.3)
+
